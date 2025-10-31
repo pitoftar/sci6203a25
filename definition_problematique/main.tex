@@ -1,0 +1,197 @@
+%% structure du document et géométrie
+\documentclass[hidelinks, 11pt, letterpaper]{article}
+\usepackage[margin=1.15in]{geometry}
+\usepackage[T1]{fontenc}
+% \usepackage{sectsty}
+% \allsectionsfont{\singlespacing}
+\widowpenalty=9999
+\clubpenalty=9999
+
+%% indications linguistiques
+\usepackage[french, english]{babel}
+
+%% indications typographiques
+\usepackage{lmodern}
+\usepackage{etoolbox}
+    \AtBeginEnvironment{quote}{\par\singlespacing\small} % pour un interligne simple dans les blockquotes
+\renewcommand{\baselinestretch}{1.5} % l'interligne
+% \usepackage[
+%    left = \flqq{}, %
+%    right = \frqq{}, %
+%    subleft = \lqq{}, %
+%    subright = \rqq{} %
+%]{dirtytalk} % pour la gestion des guillemets
+\newcommand{\guil}[1]{<<~{#1}~>>} % guillemets français de premier niveau
+\newcommand{\guill}[1]{``{#1}''} % guillemets dans les guillemets
+\usepackage[normalem]{ulem}
+
+%% gestion bibliographique
+\usepackage{csquotes}
+\usepackage[style=apa,isbn=false,language=french,backend=biber]{biblatex}
+\DefineBibliographyStrings{french}{in={dans},inseries={dans}}
+\AtEveryCitekey{\clearfield{pagetotal}} %AtEveryBibitem (bibliographie)
+\AtEveryCitekey{\clearfield{pages}} %pages = quand chapitre d'un livre
+\AtEveryBibitem{\clearfield{pagetotal}} %pages = quand chapitre d'un livre
+\AtEveryBibitem{\clearfield{url}}
+\AtEveryBibitem{\clearfield{urldate}}
+\DeclareNameAlias{sortname}{last-first}
+\DefineBibliographyExtras{french}{\restorecommand\mkbibnamefamily} %pour les noms de famille pas en small caps
+\nocite{*}
+
+\addbibresource{partie_1.bib}
+% \setcounter{tocdepth}{1} %(3 = jusqu'à subsubsection) *CHECKER CE QUE ÇA FAIT
+% \setcounter{secnumdepth}{1} % *CHECKER CE QUE ÇA FAIT
+
+%% design et mise en page
+\usepackage{xcolor}
+\usepackage{soul}
+
+%% notes de bas de page
+\usepackage[hang, flushmargin]{footmisc}
+
+%% test kitchen
+\usepackage{blindtext}
+\usepackage{lipsum}
+
+\begin{document}
+\selectlanguage{french}
+\pagenumbering{gobble} % bouffe la numérotation des pages
+
+\input{page-titre}
+
+
+\pagenumbering{arabic} % {roman} pour les chiffres romains
+\setcounter{page}{1}
+
+\section*{Introduction}
+Lors de l'étude de textes anciens et prémodernes, la distance entre la chercheuse\footnote{L'usage du féminin a été choisi pour alléger le texte et proposer une alternative au masculin comme genre neutre.} et son objet implique un déplacement du sens et des référents culturels qui constitue un enjeu important. % @Lydia, qu'est-ce qu'on fait de l'écriture inclusive? @Adrien, idk à chaque fois que j'ai essayé l'écriture inclusive, le texte devenait trop lourd ou j'oubliais de le faire par moments résultant dans un texte partiellement inclusif ಥ_ಥ
+Ce problème se pose particulièrement dans le cas de textes qui ont généré un discours critique abondant, car la perspective sur ceux-ci peut être appelée à changer graduellement en fonction des m\oe urs de l'époque.
+Au moment d'effectuer une revue de littérature, il est essentiel pour la chercheuse de dégager les tendances diachroniques ou diatopiques au sein de la littérature savante.
+Cette étape est d'autant plus cruciale pour les projets qui sont informés par des tendances contemporaines en recherche et qui sont donc à risque d'anachronisme.
+
+Les approches computationnelles peuvent se révéler être des outils robustes pour ce genre de tâche.
+En employant différentes méthodes de fouille de texte, des équipes de recherche peuvent effectuer des analyses thématiques ou linguistiques sur une quantité de textes qu'il serait difficile, voire impossible, de traiter humainement afin d'en dégager une tendance générale.
+
+Le \emph{Roman de Silence}, texte du XII\textsuperscript{e}~siècle écrit par un auteur adoptant le pseudonyme d'\guil{Heldris de Cornuälles}, se présente comme un exemple tout indiqué pour mener des expérimentations de fouille de texte sur un corpus critique, en raison des questions soulevées par l'\oe uvre.
+Le texte raconte l'histoire de Silence, un personnage né femme qui, à la suite d'une décision prise par ses parents avant sa naissance, est élevé comme un homme.
+Tout au long du roman, Silence est désigné par des pronoms masculins par le narrateur.
+La désignation masculine est maintenue dans les traductions du texte depuis l'ancien français en anglais, en espagnol, en italien et en français moderne.
+Malgré cela, Silence est désigné par des pronoms féminins dans plusieurs textes critiques.
+
+Dans ce contexte, nous tâcherons d'identifier les manières spécifiques dont la fouille de texte peut servir à cerner les tendances et biais dans la littérature critique concernant un ouvrage (le \emph{Roman de Silence} dans notre cas).
+Nous présenterons ensuite un survol d'une petite portion de la littérature critique touchant des techniques utiles à la réalisation de cette tâche ou des entreprises similaires menées en traitement automatique du langage naturel (TALN).
+
+\newpage
+
+\section*{Problématique et objectifs}
+Le but de ce projet est d'effectuer une recension systématique des désignateurs \parencite{Kripke1980} utilisés par les critiques pour faire référence au personnage de Silence~: nom propre, noms communs, pronoms, périphrases, etc.
+Cette analyse de la littérature secondaire nous permettra d'adresser les questions suivantes~:
+\begin{enumerate}
+    \item Quelles tendances peut-on observer en retraçant la désignation du personnage selon les dates et lieux de publication des critiques littéraires, mais aussi selon le genre de leur(s) autrice(s)~?
+    \item En quoi le choix d'un genre grammatical féminin pour Silence par certaines autrices ou d'un genre masculin par d'autres est-il révélateur du contexte socioculturel de leur époque~?
+\end{enumerate}
+En d'autres termes, en traitant un corpus de textes critiques sur le \emph{Roman de Silence}, nous visons à témoigner de la manière dont le bagage socioculturel influence le choix de la désignation du personnage.
+Par le fait même, nous espérons illustrer en quoi la critique d'un texte prémoderne est une opération de traduction, même si aucune autre version du texte n'en résulte.
+L'autrice d'une étude, influencée entres autres par les m\oe urs de son époque, modifie à son insu le sens du texte qu'elle critique, comme la traduction d'un texte d'une langue à une autre --~d'un contexte culturel à un autre~-- implique nécessairement un déplacement du sens. % référence critique à trouver?
+
+L'importance de ce projet est double.
+En premier lieu, il permettra de produire une analyse critique du discours savant sur un texte prémoderne.
+Malgré l'abondance de littérature autour du \emph{Roman de Silence}, personne (à notre connaissance) ne s'est encore intéressé à l'incongruité grammaticale présente au sein de celle-ci~: si les traductrices de \emph{Silence} emploient le masculin dans leur traduction, elles préfèrent généralement le féminin dans le discours critique qu'elles génèrent autour de l'\oe uvre.
+En second lieu, il offrira, à terme, une avenue pour envisager le commentaire de textes anciens et prémodernes comme une opération de traduction.
+Ce faisant, nous espérons encourager les critiques à faire usage des outils et théories issues des études traductologiques, même lorsque la production d'une version traduite n'est pas à la clef.
+Nous souhaitons ainsi mettre l'accent sur la distance entre les textes anciens et le contexte dans lequel la critique est produite.
+% **favoriser un regard/appréciation critique où on est conscient de nos propres biais/ de cette distance /du défi de contempler une oeuvre ancienne pour ce qu'elle est
+
+Dans le cas des textes critiques portant sur le \emph{Roman de Silence}, nous envisageons l'influence de trois facteurs sur la désignation du personnage éponyme, soit \uline{l'année} et le \uline{lieu} de publication du texte, ainsi que le \uline{genre de la personne qui l'a écrit}.
+De cette façon, nous nous attendons d'une part à ce que la proportion de désignateurs masculins augmente au fil des années, de concert avec l'arrivée des courants critiques désignés comme les \emph{trans studies} \parencite{Wingard2023}, et d'autre part, à ce que les textes écrits et publiés aux États-Unis désignent davantage Silence au masculin et qu'ils commencent à le faire plus tôt qu'ailleurs dans le monde anglophone.
+Nous envisageons également une plus haute proportion de pronoms neutres dans les textes récents en raison de leur utilisation croissante.
+% Par ailleurs, nous songeons à la possibilité qu'il y ait une corrélation entre le genre attribué à Silence par l'autrice de la critique et le champ lexical employé pour le personnage dans le texte. % @Lydia, je ne suis pas certain qu'on puisse déterminer ça, puisqu'une analyse du champ lexical serait une tout autre entreprise... @Adrien : en effet, ce serait peut-être trop ambitieux...
+
+\subsection*{Méthodes envisagées [provisoire]}
+Afin de réaliser cette tâche, nous devrons:
+\begin{enumerate}
+    \item effectuer une analyse syntaxique du texte (\emph{parsing});
+    \item attribuer une étiquette morphosyntaxique à chaque syntagme (\emph{part-of-speech} [POS] \emph{tagging});
+    \item identifier les termes qui font référence à la même entité, soit le personnage de Silence (résolution des chaînes de coréférence);
+    \item déterminer le genre grammatical de chacun de ces termes (identification du genre grammatical);
+    \item établir la proportion de désignateurs de chaque genre grammatical;
+    \item répéter ces étapes pour chaque texte du corpus;
+    \item comparer les données obtenues pour chaque texte en fonction de son lieu d'origine, de l'année de sa publication et de l'identité de genre de son autrice.
+\end{enumerate}
+
+Nous envisageons utiliser les outils suivants:
+\begin{itemize}
+    \item un modèle de langage généraliste (possiblement BERT ou ProBERT);
+    \item des outils Python spécialisés pour la résolution de la coréférence disponibles dans la librairie \texttt{spaCy}. Nous avons déjà ciblé \texttt{coref} et \texttt{neuralcoref}, mais nous continuons d'explorer des librairies afin de trouver celles qui pourraient convenir le mieux.
+\end{itemize}
+
+Si le temps et les ressources le permettent, et que l'architecture est suffisamment flexible, nous aimerions comparer les résultats obtenus sur un corpus anglophone à ceux obtenus sur un corpus francophone.
+Cependant, nous sommes conscientes qu'il est tout à fait possible que le système développé pour la gestion d'un corpus anglophone ne convienne pas à un corpus francophone et qu'il soit difficilement adaptable.
+
+\newpage
+
+\section*{Présentation de travaux reliés}
+Le corpus sur lequel nous prévoyons travailler sera constitué spécifiquement pour les besoins de la présente recherche.
+Il n'existe donc actuellement aucun travail effectué sur le même corpus.
+Nous avons ainsi concentré nos efforts sur des travaux de recherches portant, d'une part, sur les enjeux d'\textbf{identification du genre grammatical} de termes en TALN et, d'autre part, sur les enjeux de \textbf{résolution des chaînes de coréférence}.
+
+\subsection*{Boven \emph{et al.}, 2024}
+Les autrices ont en premier temps évalué la performance d'un système néerlandais de reconnaissance automatique de chaînes de coréférence, le modèle wl-coref, dans le traitement de pronoms non-genrés. Elles ont en deuxième temps tenté de \emph{débiaiser} ce modèle en améliorant son traitement de pronoms non-genrés, dont les néopronoms. Le corpus néerlandais \emph{1M-token SoNaR-1} a été utilisé et les relations de coréférence ont été annotées suivant les lignes directrices de COREA. Afin d'évaluer la performance de wl-coref pour le traitement de différents pronoms genrés et non-genrés, quatre versions de l'échantillon de test ont été préparées, chaque version ne comportant qu'une sorte de pronom. Une formule a été élaborée pour calculer le pourcentage de pronoms qui ont été correctement identifiés avec au moins un antécédent. Les autrices ont constaté que wl-coref traitait moins bien les pronoms non-genrés que ceux genrés. Pour débiaiser le modèle, elles ont essayé deux méthodes, l'augmentation de données contrefactuelles ou CDA (les pronoms dans les données d'entraînement sont remplacés par les pronoms d'intérêt) et la délexicalisation (le modèle est entraîné sur une version des données où il n'y a pas de variations lexicales aux pronoms à la troisième personne du singulier). Des deux méthodes, seule l'augmentation de données contrefactuelles s'est montrée efficace. Les autrices ont d'ailleurs constaté que cette méthode couplée à un ajustement continuel de celle-ci [\emph{continual fine-tuning}] peut être utilisée avec un nombre réduit de documents \emph{débiaisants} tout en demeurant efficace. Puisque nous traiterons un corpus comprenant des pronoms non-genrés, nous pourrions nous inspirer de ce travail pour évaluer et améliorer la performance du modèle que nous utiliserons dans le traitement de ces pronoms.
+
+\subsection*{Meng \emph{et al.}, 2023}
+Les autrices constatent que deux approches sont possibles au moment d'utiliser le modèle BERT pour effectuer des tâches comme la résolution de la coréférence~: soit ajuster [\emph{fine-tune}] le modèle, un processus gourmand en ressources, ou bien employer une approche où les capacités d'un autre modèle sont intégrées à la chaîne d'analyse, un processus jusqu'ici moins performant que le réglage fin.
+Afin d'améliorer les performances de BERT, Meng \emph{et al.} utilisent des réseaux de graphes pondérés par l'attention [\emph{Relation Graph Attention Network}, RGAT], c'est-à-dire des graphes où une \guil{mesure d'attention} est accordée aux liens entre les n\oe uds d'un graphe, de manière à ce que les relations contextuelles entre ceux-ci soient encodées dans la représentation vectorielle.
+Dans la solution proposée par Meng \emph{et al.}, les relations de dépendance syntaxique sont analysées à l'aide du module SpaCy.
+Ces paramètres sont ensuite intégrés à la représentation vectorielle modélisée par BERT.
+En employant cette approche, Meng \emph{et al.} ont réussi à améliorer les performances de résolution des pronoms par 2\%, ce qui, selon elles, constitue un progrès considérable pour cette tâche.
+Les mesures de précision et de rappel obtenues grâce à l'utilisation des RGAT sont également meilleures.
+Cet article pourrait nous être utile au moment de choisir la pile logicielle sur laquelle nous souhaitons appuyer notre modèle de résolution des chaînes de coréférence, puisque nous ne disposons pas des ressources nécessaires pour ajuster un modèle de langue entier.
+
+\subsection*{Caliskan \emph{et al.}, 2022}
+Ce travail de recherche porte sur la façon dont les biais sociaux, en particulier les biais de genres féminin et masculin, sont reflétés dans deux algorithmes de plongement lexical [\emph{word embeddings}] anglophone couramment utilisés, \emph{Global Vectors for Word Representation} (GloVe) et \emph{fastText}. Pour repérer les biais de genres contenu dans les plongements lexicaux de ces algorithmes, les autrices ont utilisé une variante du \emph{Single-Category Word Embedding Association Test}, le SC-WEAT. SC-WEAT mesure les différences associatives entre un mot et deux groupes de mots représentant des concepts. Les autrices ont donc mesuré les différences associatives entre les mots compris dans les vocabulaires de GloVe en 2014 et fastText en 2017 et les groupes de concepts \emph{femme} et \emph{homme} (les biais de genres non-binaires n'ont pas été étudiés). Elles ont ensuite pu évaluer quelle proportion des mots les plus fréquents était associée aux femmes comparativement aux hommes, les classes de mots davantage utilisées pour référer à chaque genre, les types de sujet associés à chaque genre, ainsi que les degrés de valence, d'excitation et de domination des mots les plus associés à chaque genre. Elles ont constaté que la majorité des mots les plus fréquents sont associés aux hommes; que les femmes sont plus probables d'être associées à des adjectifs et des adverbes, et les hommes, à des verbes (dans fastText); que les femmes sont plus probables d'être associées à des insultes relatives à leur genre, à du contenu sexuel ou à du contenu relatif à l'apparence ou à la cuisine, tandis que les hommes sont plus probables d'être associés à la \emph{big tech}, l'ingénierie, le sport et la violence; que les mots les plus associés aux femmes sont plus probables d'avoir une haute valence positive et ceux plus associés aux hommes, d'avoir des hauts degrés de domination et d'excitation. Dans l'optique où nous voudrions évaluer la présence de biais entre les différentes interprétations du personnage de Silence, nous pourrions nous inspirer des méthodes employées dans ce travail.
+
+\subsection*{Omrani Sabbaghi \& Caliskan, 2022}
+Les autrices supposent que, dans des tâches de TALN, la mesure des biais associés au genre (dans sa dimension sociale) est influencée par le genre (grammatical) des mots inféré automatiquement lors du plongement sémantique, ce qui peut fausser les résultats d'algorithme de mesure et de détection des biais genrés.
+En analysant des corpora de 5 langues genrées, les autrices délimitent l'aire du masculin et du féminin dans l'espace vectoriel.
+Elles appliquent ensuite un processus itératif à chacun des vecteurs pour \guil{désenchevêtrer} [\emph{disentangle}] les signaux de genre grammatical, jusqu'à ce que la performance de l'algorithme pour deviner le genre grammatical d'un mot ne franchisse plus la barre des 50\% (prouvant que l'attribution est désormais aléatoire).
+Les chercheuses constatent que le désenchevêtrement du signal de genre grammatical sur des mots produit des performances en détection des biais qui sont davantage alignées avec les études sociologiques effectuées avec des sujets humains.
+Elles infèrent que cette adéquation traduit une meilleure performance de l'algorithme.
+Elles notent par ailleurs que le désenchevêtrement des signaux de genre grammatical se traduit par une meilleure association sémantique entre les mots et un champ lexical conceptuel donné.
+Cet article nous sera utile au moment de trouver une façon de déterminer le genre grammatical des désignateurs de Silence, puisque celui-ci est inféré lors du plongement sémantique et représenté dans l'espace vectoriel.
+
+\subsection*{Zeldes, 2021}
+L'auteur de cet article s'intéresse aux standards d'annotation employés pour le corpus OntoNotes (ON).
+Ce vaste corpus, qui comprend des textes en chinois, en arabe et en anglais, est largement utilisé pour entraîner des algorithmes de résolution des chaînes de coréférence.
+Zeldes constate que certaines pratiques d'annotation du corpus ON induisent des erreurs qui conduisent à des sous-performances des algorithmes.
+Il aborde ensuite méthodiquement chacun des points qui lui semblent problématiques, en donnant des exemples de cas où des chaînes coréférentielles de ce type sont présentes dans le corpus ON, sans que le paradigme actuel d'annotation ne permette de les identifier.
+Il détaille des problèmes potentiels découlant de ces omissions et argumente en faveur d'une annotation plus abondante et plus granulaire de ce corpus.
+L'étude se conclut en proposant un autre paradigme d'annotation et en suggérant quelques améliorations à la manière actuelle d'identifier les chaînes de coréférence.
+Cet article nous sera utile au moment de conceptualiser les pratiques d'annotation pour notre corpus.
+
+\subsection*{Meged \emph{et al.}, 2020}
+Les autrices se sont penchées sur la synergie potentielle entre l'identification de paraphrases de prédicats et la résolution de chaînes de coréférence d'événements pour démontrer que les données et modèles utilisés pour une tâche peuvent être bénéfiques pour l'autre. Pour l'amélioration de l'identification de paraphrases de prédicats, les autrices ont développé le marqueur Chirps*, une version modifiée du marqueur de Chirps (une ressource comprenant des pharaphrases de prédicats extraites heuristiquement de Twitter), qu'elles ont utilisé sur des annotations de coréférences d'événements du jeu de données ECB+. Chirps* est doté de caractéristiques qui lui permettent d'évaluer, entres autres, la similarité entre deux paraphrases et l'adéquation des résolutions de chaînes de coréférence d'entités et d'événements. Pour l'amélioration de la résolution de chaînes de coréférence d'événements, les autrices ont incorporé des caractéristiques de Chirps* dans un modèle de résolution de chaînes de coréférence \emph{cross-document} (CD). L'amélioration observée était plus significative pour l'identification de paraphrases de prédicats que pour la résolution de chaînes de coréférence d'événements. Il pourrait être intéressant dans le cadre de notre travail de cibler les fois où des autrices de notre corpus font référence à un même moment de l'histoire du \emph{Roman de Silence}, auquel cas nous pourrions nous inspirer du travail de Meged \emph{et al.}
+
+\subsection*{Ackerman, 2019}
+L'autrice présente comment le genre est interprété selon différents types durant le processus de résolution de chaînes de coréférence, soit les types grammatical, conceptuel et biosocial. Elle illustre à l'aide d'exemples comment, d'une langue à une autre, la résolution de chaînes de coréférence ne se fera pas de la même façon : la reconnaissance de genres dans une langue peu grammaticalement genrée comme l'anglais reposerait principalement sur le genre conceptuel tandis que pour une langue très grammaticalement genrée comme l'allemand, la reconnaissance reposerait davantage sur le genre grammatical. Ainsi, l'autrice propose que le processus de résolution de chaînes de coréférence identifie le genre du référent selon le même processus cognitif et linguistique propre à la culture associée au corpus analysé. À cette fin, l'autrice présente un cadre [\emph{framework}] intégrant trois niveaux d'encodage du genre (\emph{exemplar}, \emph{category} et \emph{feature}), puis suggère trois stratégies d'association [\emph{matching strategy}] selon le type de langue traitée. En incorporant une dimension conceptuelle à l'accord de genres dans la résolution de chaînes de coréférence, la méthode proposée par l'autrice permettrait un traitement de texte davantage empathique et respectueux des personnes non-binaires. Puisque nous traiterons un corpus comprenant l'utilisation de pronoms non-binaires, il pourrait nous être utile de nous inspirer du cadre de l'autrice afin d'élaborer une stratégie de résolution de chaînes de coréférence adaptée à la langue de notre corpus.
+%**corpus multilingue ou bilingue ? @Lydia: unilingue je crois, j'ai l'impression qu'on va devoir programmer tout autre chose pour chaque langue qu'on passe dans le modèle... @ Adrien: ok je retire la mention bilingue dans ce cas (°ー°〃) @Lydia je pense qu'on peut mentionner dans les méthodes envisagées qu'on POURRAIT P O T E N T I E L L E M E N T  envisager de faire français et anglais, mais qu'on se doute qu'il faudrait deux modèles différents (et que dans ce cas les articles sur les corpora multilingues et les langues grammaticalement genrées nous seront utiles?) @Adrien : je suis d'accord ! d( •̀ ω •́ )✧
+
+\subsection*{Attree, 2019}
+Écrit par le gagnant de la compétition Kaggle lancée en 2018 et centrée sur la résolution de la coréférence pour une anaphore pronominale $P$ entre deux entités $A$ et $B$, cet article propose une pile logicielle efficace pour réaliser cette tâche.
+Attree documente son utilisation de ProBERT, une version de BERT ajustée pour la résolution de coréférence des pronoms, et d'un système de résolution genrée par accumulation de preuves [\emph{Gendered Resolution by Evidence Pooling}, GREP].
+Le GREP est un modèle maison entraîné par Attree, qui fonctionne en combinant les prédictions de plusieurs modèles spécialisés en résolution de chaînes de coréférence.
+Les prédictions des modèles sont groupées avec les résultats obtenus par ProBERT, permettant à chaque modèle de \guil{corriger} les prédictions de l'autre afin de renforcer les probabilités de fournir la bonne réponse en sortie.
+Le modèle d'Attree obtient un taux de succès de 92.5\%.
+Considérant que la tâche est relativement semblable à celle que nous espérons effectuer, nous pouvons utiliser le modèle entraîné par Attree ou prendre appui sur celui-ci pour nous assister.
+
+\subsection*{Sukthanker \emph{et al.}, 2018}
+Bien qu'il ne s'agisse pas d'une recherche à proprement parler, la contribution de Sukthanker \emph{et al.} est importante en ce qu'elle trace un portrait des avancées dans le champ de la résolution des chaînes de coréférence, des années~1970 à 2018.
+Les autrices définissent d'abord les différentes classes d'anaphores et d'expressions pronominales non-anaphoriques et listent les critères généralement employés pour la résolution de chaînes de coréférence (e.g. le référent doit être du même genre et nombre que l'entité).
+Sukthanker \emph{et al.} présentent ensuite diverses métriques d'évaluation pour ces tâches, avant de comparer les défis spécifiques à la résolution de chaînes de coréférence vs. de renvois anaphoriques.
+Elles pointent également vers des jeux de données constitués pour ces tâches et établissent un historique critique des algorithmes programmés pour celles-ci, séparant les approches de type \guil{moteur de règles}, les approches d'apprentissage automatique probabilistes et l'apprentissage profond.
+Les autrices concluent en présentant des outils \emph{open source} disponibles, en traçant des pistes d'amélioration en fouille de sentiment basée sur la résolution de la coréférence et en faisant un état des problèmes saillants dans la discipline.
+En plus d'être une ressource indispensable pour les non-spécialistes en ce qui concerne le vocabulaire, cet article nous sera utile pour cibler les enjeux connus dans le champ de la résolution de chaînes de coréférence et la littérature traitant de ceux-ci.
+
+\newpage
+\printbibliography[title=Références]
+
+\end{document}
