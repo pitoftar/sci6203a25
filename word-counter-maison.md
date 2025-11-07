@@ -1,0 +1,12 @@
+Barr2020; 13861
+Blumreich2024; 8967
+Bychowski2015; 2967
+Clifton1998; 9218
+Fulton2014; 13763
+Lurkhur2010; 11931
+Malcolm2024; 7228
+Pratt2022; 7653
+Richards2025; 9226
+Tanner2012; 10600
+Tolmie2009; 7051
+Wilson2025; 11224
