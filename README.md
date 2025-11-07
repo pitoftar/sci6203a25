@@ -1,7 +1,7 @@
 ## Todo
 ### Constitution du corpus
-- [ ] Lister tous les travaux absents (à numériser ou à trouver)
-- [ ] Trouver des versions HTML du plus grand nombre possible de textes
+- [x] Lister tous les travaux absents (à numériser ou à trouver)
+- [x] Trouver des versions HTML du plus grand nombre possible de textes
 - [ ] Splicer les PDFs (enlever la première page et les pages ne comportant pas que du texte) (ça pourrait rentrer dans la segmentation)
 
 ### Nettoyage du corpus
