@@ -8,8 +8,8 @@
 - [ ] Convertir les PDFs en XML(TEI?) (trouver le meilleur pipeline)
 - [ ] Convertir les HTML en XML
 
-## License
-Contributaires :
+## Licence
+Contributeur :
 - Adrien Savard-Arseneault (adrien.savard-arseneault@umontreal.ca)
 
 [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
