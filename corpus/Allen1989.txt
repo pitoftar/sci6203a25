@@ -1,7 +1,8 @@
-﻿5
+5
 THE AMBIGUITY OF SILENCE
 Gender, Writing, and Le Roman de Silence
 PETER L. ALLEN
+
 Texte deplaisir (text of pleasure): one that contents, fills, gives euphoria;
 one that comes from the culture, does not break with it, is tied to a
 comfortable practice of reading.
@@ -30,9 +31,6 @@ modem (1972) edition is out of print,2 and it is only quite recently
 that studies of the poem have begun to appear.3 Furthermore, the text
 does not appear to challenge our ways of thinking: it does not
 explicitly call upon the support of such “serious” disciplines as phi-
-98
-ALLEN: AMBIGUITY OF SILENCE
-99
 losophy, theology, or politics. The absence of such “critical” prob-
 lems is, however, in the eye of the beholder. In fact, the more closely
 one looks, the more ambiguities one is likely to find. The title, whether
@@ -74,8 +72,6 @@ when she reaches the age of puberty Nature and Nurture debate over
 her gender. She runs away from home with a troupe of jongleurs; her
 father, overcome with grief, kills all jongleurs who come to Corn-
 wall. Silence, meanwhile, has mastered the art of poetry even better
-100
-CAVEAT LECTOR
 than her masters, who threaten to kill her. She returns to Cornwall
 and escapes death there because she is recognized as the count’s “son.”
 Queen Eufeme, ignorant of Silence’s sex, tries to seduce him (her),
@@ -113,8 +109,6 @@ script makes it difficult for the reader to know which of the Not-
 tingham University Library’s Search Room Regulations to follow:
 #3, which states, “Whenever possible bound volumes should be read
 using a bookrest,” or #5, “The arrangement of loose papers in a
-ALLEN: AMBIGUITY OF SILENCE
-101
 bundle should not be altered.” MS. Mi.LM.6 totters between order
 and disorder, and the blue cord that ties it can only retard the speed at
 which this artifact of the Middle Ages obeys the law of entropy. Its
@@ -156,8 +150,6 @@ never truly hers. The manuscript reveals the violence men perpetrate
 on women, the source of whose sexual identity the fictions’ men seem
 unable to understand.
 The oddities of this manuscript are not limited to the literary
-102
-C/U'EHT LECTOR
 works that form a context for Le Roman de Silence. Fourteen illumina-
 tions illustrate the story of Silence, but they, too, leave room for
 doubt. Of those that seem to be illustrations of the text, two now
@@ -199,8 +191,6 @@ jrancien forms from those that are picard are preceded by a caveat: “As
 is true of so many other poems of the French Middle Ages, so here it
 is only with the greatest difficulty that the language of the poet can be
 distinguished from that of the scribe” (p. 56). The radical distinction
-ALLEN: AMBIGUITY OF SILENCE
-103
 we modems make between the inventor and the transmitter of texts
 is, for this manuscript, not a concern.
 There is nothing unique about this conflation of dialects, of course,
@@ -238,8 +228,6 @@ fourteenth century: le ior de mardi I por donpere. ... It is ironic that we
 know the day in the week when something was to happen at Dom-
 pierre-du-Chemin, but not the month or year, or, indeed, what the
 event was! (p. 11)
-104
-CAl'EAT LECTOR
 By this point it is, no doubt, manifest that any attempt to relate Le
 Roman de Silence to the world outside its fiction is unlikely to succeed.
 Even our attempts to enter the text on strictly literary terms may be
@@ -277,8 +265,6 @@ The word cartre (paper) is used as a homophonic rhyme with cartre
 directions: rhyming twice with forms of ozer (to dare), it seems to
 mean once “jealous” (a form of jalos/gelos not otherwise recorded),
 and once “to dispute” (an extension of the more common “to crit-
-ALLEN: AMBIGUITY OF SILENCE
-105
 icize, ” itself an extension of “to gloss”). The greatest perversion of
 writing in the poem is Queen Eufeme’s substitution of letters: for the
 letter from the king asking that Silence be welcomed at the French
@@ -317,8 +303,6 @@ enlisted to keep its gender a secret, announces “Ma dame n’a mestier
 de noise!’” (“My lady has no need of noise!” [line 1998]). This
 announcement is a riddle that conceals its own answer, since the
 opposite of noise (in Old French or modem English) is silence. The
-106
-CAl'EAT LECTOR
 French name the child’s parents choose for her masks with the gen-
 derless desinence -e the choice they would have been forced to make
 in Latin: “Silence” is a nominal zero, a placeholder for a name.
@@ -357,8 +341,6 @@ Silence] considers himself very badly taught, very badly instructed as
 to his nature [lines 3178-79]).
 Names in this poem are not revealing: they hold back information,
 rather than expose it. Identity is hidden, or absent, or subject ex-
-ALLEN: AMBIGUITY OF SILENCE
-107
 clusively to the convenience of the text: one character’s name, in fact,
 seems to have been invented simply to form a rhyme.15 Queen
 Eufeme, whose name suggests that speech is positive, uses language
@@ -395,8 +377,6 @@ Uns muials puct contcr lor sens,
 Car femes n’ont sens quo mais un,
 C’est taisirs.”
 (lines 6399-6403)
-108
-CAVEAT LECTOR
 (“Woman’s sense lies in being silent. So help me God, I think that a
 mute could recount all their sense, since women have only one sense,
 namely, being silent.”)
@@ -432,8 +412,6 @@ C'ainques n’oistes tele cn livre.
 Qu’cn latin cscrite lizons,
 En romans si le vos disons.
 Jo ne di pas que n’i ajoigne
-ALLEN: AMBIGUITY OF SILENCE
-109
 Avoic le voir sovcnt mcnqoignc
 Por 1c contc miols accsmer:
 Mais se jcl puis a droit csmcr
@@ -472,8 +450,6 @@ draw us to it: as Barthes enquires, “L’endroit le plus erotique d’un
 corps n’est-il pas la ou le vetement bailie?” (“Isn’t the most erotic part
 of a body the place where the clothing parts?”).23 Silence is a text that
 refuses our violence but welcomes our jonissance. Its refusal can be
-110
-CHI'EXT LECTOR
 read in various ways—as a characteristic of female writing (writing
 about women, if not by them) unwilling to accommodate itself to
 male readings; as a Marxist text refusing to accept capitalist modes of
@@ -496,6 +472,7 @@ able”; we cannot subject the text to ourselves. Yet we can, and
 perhaps must, read and be read, enter into the world of Romans, of the
 roman, and see what we can experience of mute -e in the gap between
 -us and -a, in the ambiguity of silence.
+
 Notes
 1.	“Tcxtc de plaisir: cclui qui contcntc, emplit, donne de l’cuphoric; cclui qui vient
 de la culture, nc rompt pas avcc cllc, est lie a unc pratique confortable de la lecture.
@@ -511,8 +488,6 @@ be given in the text: those to the romance itself will be given by line numbers,
 the editorial material by page number.
 3.	Articles on the poem arc beginning to appear. Sec Kate M. Cooper, “Elie and
 L: Sexualized Tcxtuality in Le Roman de Silence" and Michele Perret, “Travesties ct
-ALLEN: AMBIGUITY OF SILENCE
-111
 transsexucllcs: Ydcs, Silence, Grisandole, Blanchandinc,” both in Romance Notes 25, 3
 (Spring, 1985) and R. Howard Bloch, “Silence and Holes: The Roman de Silence and
 the Art of the Trouvcre,” Yale French Studies 70 (1986). I am indebted to Bloch’s article
@@ -562,8 +537,6 @@ any study of Silence.
 Avon, 1973): “Unhappy one, men have expelled you from the world of symbols and
 yet they have given you names, they have called you slave, you unhappy slave.
 Masters, they have exercised their right to master. They write, of their authority to
-112
-CAVEAT LECTOR
 accord names, that it goes back so far that the origin of language itself may be
 considered an act of authority emanating from those who dominate. . . . the language
 you speak is made up of words that are killing you,” as cited by Sandra M. Gilbert and
