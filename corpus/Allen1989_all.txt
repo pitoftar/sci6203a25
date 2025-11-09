@@ -1,0 +1,588 @@
+﻿5
+THE AMBIGUITY OF SILENCE
+Gender, Writing, and Le Roman de Silence
+PETER L. ALLEN
+Texte deplaisir (text of pleasure): one that contents, fills, gives euphoria;
+one that comes from the culture, does not break with it, is tied to a
+comfortable practice of reading.
+Texte de jouissance (text of sexual enjoyment): one that brings about a
+state of loss, one that causes discomfort (even a certain annoyance),
+shakes the historical, cultural, psychological bases of the reader, the
+consistency of his tastes, his values, his memories, causes a crisis in his
+relationship with language.1
+J-Jc eldris de Comualle’s thirteenth-century Le Roman de Silence is a
+texte de jouissance, a text that raises questions of sex and language by
+disconcerting its readers. Relatively new to the medievalist public, it
+confronts some of the major critical issues currently facing medieval
+studies. In studying it, we are forced to think about the claims of
+feminist criticism, the relationship between sexuality and literature,
+the role (and limitations) of the textual editor, the nature of the
+medieval “canon” of texts, and the modern reader’s relationship with
+older literature. This paper will attempt to confront these issues
+through a discussion of the poem: by being forced to admit the
+inadequacy of our methods of understanding medieval writing, we
+will see what new possibilities of reading the text can offer us.
+Heldris’s poem, on the surface, seems unlikely to threaten anyone’s
+notions of what medieval literature is all about. The text was appar-
+ently not particularly popular in the Middle Ages, since we have only
+one manuscript copy and the author is otherwise unknown. Even the
+modem (1972) edition is out of print,2 and it is only quite recently
+that studies of the poem have begun to appear.3 Furthermore, the text
+does not appear to challenge our ways of thinking: it does not
+explicitly call upon the support of such “serious” disciplines as phi-
+98
+ALLEN: AMBIGUITY OF SILENCE
+99
+losophy, theology, or politics. The absence of such “critical” prob-
+lems is, however, in the eye of the beholder. In fact, the more closely
+one looks, the more ambiguities one is likely to find. The title, whether
+in Old French or modern English, is confusing: how can silence
+provoke a poem, let alone a romance? The manuscript, Mi.LM.6 in
+the library of the University of Nottingham, contains a number of
+odd features that seem intimately related to the peculiarities of the
+text. And Lewis Thorpe’s editorial commentary, which seems to
+present all the help a reader might wish or expect, is in fact riddled
+with hypotheses and frustrations. These problems do not so much
+make Le Roman de Silence unique as remind us of the special consid-
+eration medieval literature asks of us, its modem readers. Our models
+of reading attempt to elucidate, pin down, and disambiguate medie-
+val texts; Le Roman de Silence quietly, stubbornly, refuses to make
+itself accessible to this kind of approach. We cannot remove the
+ambiguities from the romance without breaking its silence—without
+destroying the object we want to study. Silence, in fact, refuses to
+permit itself to be studied as an “object.” If we wish to read it, we are
+obliged instead to make it the subject of our study: the text itself—
+both as a poem and as a manuscript—tells us how to read. It informs
+us when it will permit its meaning to be elucidated and when it will
+not.4 This kind of reading can be frustrating, if we use models
+through which we attempt to master the text. If, however, we can
+open ourselves up to the text and accept its ambiguities, the text will
+free us to understand it better and to take pleasure in our readerly
+role.
+Since Le Roman de Silence is relatively unfamiliar, it will be useful to
+begin this discussion with a summary of the plot.5 Because of a
+quarrel between two counts, King Ebain of England decrees that no
+woman shall inherit property during his reign. Ebain marries one of
+his retainers, Cador, to the daughter of the Count of Cornwall,
+Eufemie (whose name recalls that of Ebain’s queen, Eufeme). When
+the Count dies, Cador accedes to his position, and, when the couple
+gives birth to a daughter, the question of inheritance arises. The
+parents decide to conceal the child’s sex by naming her Silence,
+reasoning that if she ever realizes that she is female, “Silentiiis” can
+always be changed to “Silentid.” Silence is brought up as a boy, but
+when she reaches the age of puberty Nature and Nurture debate over
+her gender. She runs away from home with a troupe of jongleurs; her
+father, overcome with grief, kills all jongleurs who come to Corn-
+wall. Silence, meanwhile, has mastered the art of poetry even better
+100
+CAVEAT LECTOR
+than her masters, who threaten to kill her. She returns to Cornwall
+and escapes death there because she is recognized as the count’s “son.”
+Queen Eufeme, ignorant of Silence’s sex, tries to seduce him (her),
+and, when Silence refuses, claims to have been his (her) victim. King
+Ebain exiles Silence to France; Eufeme substitutes for Ebain’s laissez-
+passer a letter asking the King of France to execute the bearer; the
+fraud is revealed; and Silence is recalled. Eufeme repeats her accusa-
+tion, and Ebain assigns Silence the penitential task of finding Mer-
+lin—a task only a woman can accomplish. Silence, of course,
+succeeds, and brings Merlin back to court, where he reveals such
+secrets as the heroine’s true gender and the fact that Eufeme has a
+lover she disguises as a nun. Eufeme is executed; Silence is established
+as a woman; and Ebain makes her his queen.
+A number of the romance’s ambiguities emerge from this sum-
+mary: the almost identical names of Silence’s mother and her prede-
+cessor in Ebain’s nuptial bed (i.e., the queen); the fact that both these
+names, unlike that of the heroine, valorize speech; the heroine’s
+gender (and the Latin and French names that are used both to conceal
+and to reveal it to various “readers”—Silence herself, the king, our-
+selves); the presence of poets and poetry within the poem itself and
+their relationship to a poet (Silence) whose name implies the absence
+of all sound and, hence, poetry. The indeterminacies of this romance
+are not limited to details of plot, however, and it is best to begin our
+discussion at the beginning—namely, with an examination of the
+manuscript and the edition. What we find there will provide a fruitful
+introduction to the poem itself.
+Manuscript as Sign: The Context of Silence
+The manuscript that contains the unique copy of Silence also con-
+tains an interesting miscellancy of other literary works, including
+Benoit de Sainte Maure’s Roman de Troie, Raoul de Houdenc’s La
+Vengeance Radiguel, and ten fabliaux. It has, as Thorpe puts it, “been
+roughly used” (p. 1), and, as the binding weakens, the codex is in the
+process of separating into quires. Indeed, the condition of the manu-
+script makes it difficult for the reader to know which of the Not-
+tingham University Library’s Search Room Regulations to follow:
+#3, which states, “Whenever possible bound volumes should be read
+using a bookrest,” or #5, “The arrangement of loose papers in a
+ALLEN: AMBIGUITY OF SILENCE
+101
+bundle should not be altered.” MS. Mi.LM.6 totters between order
+and disorder, and the blue cord that ties it can only retard the speed at
+which this artifact of the Middle Ages obeys the law of entropy. Its
+content, too, seems in doubt. The case in which the manuscript is
+kept bears the inscription “‘Le Roman de Troie,’ etc.—Benoit de
+Sainte Maure,” giving priority to the larger, more widely recognized
+works with which the manuscript begins; the fabliaux, which bear
+such intriguing titles as “D[ou] prestre ki perdi les colles” (“The Priest
+Who Lost His Balls”), are, however, ignored. Yet the large majority of
+those moderns who have edited the better-known romances were
+unaware that this copy existed (compare pp. 3—4), whereas the manu-
+script has been consulted by those editing the less canonical, more
+sexually explicit, fabliaux.
+Yet even the fabliaux here are mutilated. “D[ou] prestre ki perdi les
+colles” is cut short, missing over two hundred of its 314 lines (com-
+pare p. 3 n.4). The last text in the manuscript, which is identified as
+Marie de France’s “De la cugnie” (The Axe), stops after fifteen lines.
+But the strangest example is an anonymous fabliau that has no title in
+this copy but which is normally called “De la dame escolliee” (The
+Castrated Lady).6 In this story a rebellious woman is cut open and
+two bull’s testicles are produced by sleight of hand to show that her
+insubordination was due to inappropriate masculine characteristics:
+“Que ce sachiez, par ces grenotes / Sont les femes fieres et sotes”
+(“Know this: by these seeds / Women become proud and foolish”).7
+The moral is that women must be kept in their place and must respect
+their rightful masters; “Dahet feme qui despit home!” (“Cursed be the
+woman who despises a man!”).8 This moralizing, however, ignores
+the fact that the fabliau’s violence is completely unjustified: women
+cannot be “escolliees” because they have no “coilles" (balls). The
+dictionaries, of course, recognize this fact of physiology: they find no
+other occurrence of “escolliee” in the feminine. The extraordinary
+antifeminism of this fabliau is echoed in Le Roman de Silence. There
+Queen Eufeme is executed for expressing her sexual desire—a desire
+that makes her (like the classic queen of romance, Guenevere) not
+only an adultress but a traitress, too, since her husband is the head of
+state. The outspoken woman is replaced by Silence, who gives up the
+male role (the bull’s testicles) that had been attributed to her but was
+never truly hers. The manuscript reveals the violence men perpetrate
+on women, the source of whose sexual identity the fictions’ men seem
+unable to understand.
+The oddities of this manuscript are not limited to the literary
+102
+C/U'EHT LECTOR
+works that form a context for Le Roman de Silence. Fourteen illumina-
+tions illustrate the story of Silence, but they, too, leave room for
+doubt. Of those that seem to be illustrations of the text, two now
+have little gaps: the picture of Merlin has no face, 9 while that of
+Silence, without her clothes at the point in the story when her true
+gender is revealed, bears no features that distinguish the body as
+female.10 Furthermore, a series of illuminations which continues
+throughout the manuscript seems to have no relation to any of the
+stories. These are representations of animals and of mythical, half-
+human beasts that seem to be present only to remind us that the texts
+belong to the domain of fantasy.11 Moreover, all the illuminations
+replace initials in the text and force the adjacent lines of poetry to be
+written as two half-lines: image and word thus compete for the
+reader’s attention.
+To transform the text from its unruly manuscript state into an
+accessible, socialized, printed work is the job of the editor. Lewis
+Thorpe’s work on Silence covers all the details that one could ask for
+from an editor of a medieval text: Thorpe provides a summary of the
+story, historical research, an introduction to the language, running
+titles, an index of proper names and place names, and a glossary.
+Despite all these efforts to make Le Roman de Silence a comfortable
+texte de plaisir, however, the poem rejects, or, more precisely, under-
+mines the editor’s work: it demands our jouissance if we wish to read it
+at all. Thorpe’s wrestling with Silence illustrates the difficulties any
+editor must face in attempting to move a medieval text from one
+medium to another.
+Medieval text production accepted many ambiguities which twen-
+tieth-century editing does not. Modern conventions about language,
+for example, require consistency in spelling and permit the use of
+abbreviations only in a prescribed and limited number of cases. The
+scribe of MS. Mi.LM.6, on the other hand, represents nasalizing
+consonants indifferently by a tilde, m, or n. Thorpe writes that the
+scribe “hesitates” between these choices (p. 235), but in fact, un-
+disturbed by any need for consistency, the scribe blithely ignores the
+idea that different spellings matter: it is the editor who hesitates. The
+modem editor also finds that the text inhibits his (and our) attempts
+to separate author from scribe. Thorpe’s attempts to distinguish
+jrancien forms from those that are picard are preceded by a caveat: “As
+is true of so many other poems of the French Middle Ages, so here it
+is only with the greatest difficulty that the language of the poet can be
+distinguished from that of the scribe” (p. 56). The radical distinction
+ALLEN: AMBIGUITY OF SILENCE
+103
+we modems make between the inventor and the transmitter of texts
+is, for this manuscript, not a concern.
+There is nothing unique about this conflation of dialects, of course,
+but—as with so many other features of Le Roman de Silence—it seems
+to echo the romance’s refusal to behave according to our expectations,
+to fit into our categories. Distinctions between history and fiction,
+proper nouns and common ones, even text and absence are unsure:
+the editor must assume that a hole in the parchment is to be filled by
+ne (p. 236 n.1333), and the scribe changes “da Norwege” (“from
+Norway”) into the meaningless “danor wege”: the place we know as
+“Norway” was nothing but a linguistic fantasy to the copyist (p. 235
+n.146). Moreover, our attempts to relate the characters to anything
+we recognize as history are fruitless (p. 26). Even the author, Heldris
+de Corniialle, is named nowhere but in his poem, and the description
+Thorpe proposes is shadowy at best:
+If what I have written is accepted, then Heldris is established as a
+professional lay poet of the second half of the thirteenth century, who
+lived in all probability near to the present-day frontier between France
+and Belgium where Nord marches with Hainaut, but who had some
+connexion yet to be determined cither with the Duchy of Cornwall or
+with Comuaille or with the hamlet La Comualle and who at the same
+time had some reason for featuring Chateau-Landon and Beaumont-
+en-Gatinais in his poem. (p. 17)
+Not only are Heldris’s relations with the external world multiple and
+ambiguous, but he, like his poem, exists on the borders, between
+France and Belgium, between fiction and history.
+Not only are we unable to distinguish between author and scribe
+and between historical characters and fictional ones, but we cannot
+even learn the history of the text as physical object from the inscrip-
+tions we can read in it. These notes, presumably made by the vol-
+ume’s owners, are inconclusive:
+F 244r, which is otherwise blank, has in the left-hand upper comer a
+scribbled note in what appears to be a northern French hand of the
+fourteenth century: le ior de mardi I por donpere. ... It is ironic that we
+know the day in the week when something was to happen at Dom-
+pierre-du-Chemin, but not the month or year, or, indeed, what the
+event was! (p. 11)
+104
+CAl'EAT LECTOR
+By this point it is, no doubt, manifest that any attempt to relate Le
+Roman de Silence to the world outside its fiction is unlikely to succeed.
+Even our attempts to enter the text on strictly literary terms may be
+stymied if they try (consciously or not) to simplify the poem. Thus
+the running titles provided by the editor to guide the reader reduce
+Silence to a single gender (e.g. “Silence Considers Her Situation,” p.
+135), whereas the poet reserves the ungrammatical and unnatural but
+fictionally accurate privilege of calling his hero(ine) “le vallet ki ert
+meschine” (the youth who was a maiden [line 3704 and passim]).12
+Elsewhere the titles flirt with absurdity, as when they announce
+“Silence Has Great Success as a Minstrel” (p. 143) or “Cador Prepares
+to Execute Silence” (p. 153). These signposts are more likely to trip
+the reader up than to point him or her in the right direction: the poem
+refuses to be reduced to a single meaning.
+Silence as Sign: The Limits of Language
+That so much ambiguity should accrete around this text is not, I
+believe, entirely coincidental. It seems rather that the circumstances
+under which we meet the poem actually reflect the fundamental
+cracks and strains present in the romance itself—cracks and strains
+that affect the very materials out of which this piece of literature is
+constructed, namely words and gender. For writing about silence is
+an oxymoron, and the poem exists only because language exists at a
+second degree from the things it represents: if we had no word that
+meant “silence,” we could not use the lack of a word to name a
+character. As it is, the titles of MS. Mi.LM.6 strain our means of
+communication; to add "Le Roman de” to “[De la dame
+escolliee]” would be too much—or not enough—for us to under-
+stand. Ambiguity promotes paradox, and it is within this gap, be-
+tween language and meaning, between history and fiction, that this
+text exists.
+Even writing, the means by which the romance is transmitted to
+us, is called into question on numerous occasions within the poem.
+The word cartre (paper) is used as a homophonic rhyme with cartre
+(prison) (lines 4959-60), and the word gloze is twisted in two different
+directions: rhyming twice with forms of ozer (to dare), it seems to
+mean once “jealous” (a form of jalos/gelos not otherwise recorded),
+and once “to dispute” (an extension of the more common “to crit-
+ALLEN: AMBIGUITY OF SILENCE
+105
+icize, ” itself an extension of “to gloss”). The greatest perversion of
+writing in the poem is Queen Eufeme’s substitution of letters: for the
+letter from the king asking that Silence be welcomed at the French
+court, she exchanges one asking that the bearer be executed.13 The
+Queen, however, knows that any definite charge is subject to dis-
+proof, so she uses a silent accusation to silence Silence:
+De par roi Ebayn, son scgnor,
+Escrist al roi de France un brief
+Qu’il toile al message le cief
+Qui les letres a lui enporte;
+Que il por rien ne 1’en deporte,
+Car il a fait al roi tel honte
+Qu’il ne le violt pas metre en conte.
+(lines 4320-26)
+(On behalf of Ebain, her lord, she writes the king of France a letter
+[saying] that he should cut off the head of the messenger who carries
+the letter to him; that he not spare him this for any reason, since he has
+caused such shame to the king that he does not want to recount it.)
+[S]he who lives by the sword shall die by the sword, however, and
+Eufeme’s accusation returns to persecute its maker: the count of
+Clermont advises the French king that he should not punish anyone
+whose crime he does not know, and eventually, as the plot is un-
+tangled, it is Eufeme who is executed—poetic justice for her abuse of
+writing.
+Another key point in the romance’s treatment of language is its
+discussions of the heroine’s name, which is more a placeholder for a
+name than a real proper noun. Within this name, which seems to
+mean nothing, is contained Silence’s whole story: it could be trans-
+lated as “a-woman-whose-parents-had-to-give-her-a-name-that-
+doesn’t-reveal-her-gender-because-the-king-had-forbidden-women-
+to-inherit-property-because-etc.-etc.” This name, empty of signifi-
+cance but full of meaning, is the subject of much linguistic play. When
+the child is born, everybody gathers in the palace hall, wanting to
+know whether it is male or female. The child’s aunt, who has been
+enlisted to keep its gender a secret, announces “Ma dame n’a mestier
+de noise!’” (“My lady has no need of noise!” [line 1998]). This
+announcement is a riddle that conceals its own answer, since the
+opposite of noise (in Old French or modem English) is silence. The
+106
+CAl'EAT LECTOR
+French name the child’s parents choose for her masks with the gen-
+derless desinence -e the choice they would have been forced to make
+in Latin: “Silence” is a nominal zero, a placeholder for a name.
+“Scl faisons apiclcr Scilcnsc
+El non de Sainte Paciense,
+Por cho que silenscc tolt anse.14
+Que Jhesus Cris par sa poissance
+Le nos doinst celer ct taisir,
+Ensi com lui est a plaizir!
+Mellor consel trover n’i puis.
+Il iert nomes Scilenscius;
+Et s’il avient par aventure
+Al descovrir de sa nature
+Nos muerons cest -us en -a,
+S’avra a non Scilencia.
+Se nos li tolons dont cest -us
+Nos li donrons natural us.
+Car cis -us est contrc nature,
+Mais 1’altrcs scroit par nature.”
+(lines 2067-82)
+(“So let us have her called ‘Silence,’ in the name of Saint Patience,
+because silence relieves all anxiety. May Jesus Christ by his power
+permit us to conceal it and keep it quiet! I can find no better plan. He
+will be named Silcntius; and if it should happen that her nature is
+discovered, we will change the “-us” into an “-a”, so she will have the
+name Silentia. So if we take this “-us” away from her, we will give her
+her natural usage, since this “-us” is against nature, but the other one
+would be natural.”)
+Silence’s gender depends, then, not on nature but on custom or usage
+(us). When she reaches puberty, Nature and Nurture debate the issue,
+but reach no resolution; and when Silence escapes with the jongleurs,
+she takes a pseudonym (Malduit) which, like her real name, reveals
+the confusion in which she finds herself: “Car il [i.e., Silence] se tient
+moult por mal duit, I Moult mal apris lone sa nature” (For he [i.e.,
+Silence] considers himself very badly taught, very badly instructed as
+to his nature [lines 3178-79]).
+Names in this poem are not revealing: they hold back information,
+rather than expose it. Identity is hidden, or absent, or subject ex-
+ALLEN: AMBIGUITY OF SILENCE
+107
+clusively to the convenience of the text: one character’s name, in fact,
+seems to have been invented simply to form a rhyme.15 Queen
+Eufeme, whose name suggests that speech is positive, uses language
+for treacherous purposes and is finally silenced by death. Silence, too,
+is named to hide her identity, to conform to King Ebain’s privileging
+of male over female. This submission of identity to convenience is an
+extreme statement of the “conventionalist” theory of naming, formu-
+lated early in Western literary tradition by Plato’s character Her-
+mogenes:
+“Whatever anyone calls anything, that is its correct name: and if one
+changes it for another, and abandons the former name, the new one is
+no less correct than the old—just as when we change the names of our
+slaves. For nothing has its name by nature, but only by usage and
+custom.”16
+The relationship of usage and custom to language is precisely what
+is at issue in Silence. Silence, by means of an evasive name, must try to
+escape the sentences of death and disinheritance which are laid down
+for her, but all her efforts to escape from the system only reveal her
+inability to do so. When she becomes a jongleur, she escapes silence,
+but nearly becomes the victim of her teachers when she surpasses
+them. All poets are banned from her native land, but nonetheless she
+returns. Her femaleness, which her parents attempt to cover up with
+language, is eventually reimposed on her by stripping away the male
+appendages (her clothes, the “-us” of her name) she had assumed.
+This reversion to femininity, however, means a new submission to the
+king’s power—this time not legislative but sexual. King and parents
+exercise the power of the masters, the Cratylistic power to endow
+people with names, and to determine their destiny by speech. In fact,
+King Ebain explicitly exalts the ideal of the Silent Woman (often
+portrayed, of course, as a woman who has been decapitated):
+“Sens de feme gist en taisir.
+Si m’ait Dex, si com jo pens,
+Uns muials puct contcr lor sens,
+Car femes n’ont sens quo mais un,
+C’est taisirs.”
+(lines 6399-6403)
+108
+CAVEAT LECTOR
+(“Woman’s sense lies in being silent. So help me God, I think that a
+mute could recount all their sense, since women have only one sense,
+namely, being silent.”)
+Masculine speech is power; feminine speech (symbolized by Queen
+Eufeme) is ripped apart, condemned to death (lines 6651—57).17 All
+the male characters the poem can imagine applaud the death of female
+speech and the feminization and coronation of Silence:18
+Nus horn qui fust nc plainst Eufcmc.
+Silence atornent come feme.
+Scgnor, que vos diroie plus?
+Ains ot a non Scilensius:
+Ostes est -us, mis i est -a,
+Si est nomes Scilentia.
+(lines 6663-68)
+(No man alive lamented Eufeme. They dress Silence up as a woman.
+Lords, what should I tell you? Before, her name was Silcntius: the
+“-us” is removed, an “-a” attached, and he is named Silentia.)
+This removal of -us is reminiscent of nothing so much as the fictitious
+castration of the “(Dame escoilliee]” of the fabliau: neither she nor
+Silence ever really had any testicles, yet it is essential to the men in
+their stories to “castrate” them.
+That we should find Heldris performing surgery on suffixes is
+hardly surprising in this text, where a disintegrating manuscript
+encloses poems without titles and eunuch fabliaux. Confusion about
+names and genders, however, is only a subset of the most important
+ambiguity Le Roman de Silence confronts—that of language and uni-
+valent discourse. Early in the romance the author admits that his
+efforts towards artistry must at times distance his work from that
+which he considers “true,” but suggests that this distance, while
+impermissible in Latin, is acceptable in Romans.
+Comcnce chi tcls aventure
+C'ainques n’oistes tele cn livre.
+Qu’cn latin cscrite lizons,
+En romans si le vos disons.
+Jo ne di pas que n’i ajoigne
+ALLEN: AMBIGUITY OF SILENCE
+109
+Avoic le voir sovcnt mcnqoignc
+Por 1c contc miols accsmer:
+Mais se jcl puis a droit csmcr
+N’i netrai ricn qui m’ucvre enpirc
+Nc del voir ncn icrt mos a dire
+Car la verte nc doi taisir.
+(lines 1658-69)”
+(Here begins an adventure such as you’ve never heard of in a book.
+That which we read written in Latin we will tell to you in Romans. I do
+not say that I do not often add lies to the truth in order to adorn the
+story: but if I can rightly judge, I will not put into it anything that will
+make my work worse, nor shall there be less of the truth to tell, since I
+should not keep the truth silent.)
+Walter Ong and Sandra Gilbert and Susan Gubar have called Latin the
+“masculine” discourse of the Middle Ages and the vernacular lan-
+guages the period’s “feminine” mode of communication.20 In this
+case, however, Romans is not so much a feminine language as a
+language that avoids definitions of gender. Thus the significant dis-
+tinction between “Silentins” and “Silentia” (which the heroine’s par-
+ents used to paper over the cracks in their daughter’s identity [lines
+2067—82] and which is reversed when Silence becomes queen) pertains
+only to Latin, the language Heldris and his audience read (lisons); it is
+irrelevant to Romans, the language they speak (disons). Romans does
+not feminize communication: it simply tolerates certain ambiguities
+about gender that Latin does not. This is why Heldris uses it in
+composing his roman, a fiction that is all about ambiguity: Latin
+makes a useful source, but doesn’t entertain. This association of the
+ambiguities of vernacular language with fiction recalls Jean Bodel’s
+statement that “li conte de Bretaigne sont si vain et plaisant” (“the
+tales of Brittany are so meaningless, so pleasant”),21 and Dante’s
+“ambages pulcherrime Arturi regis” (“most beautiful ambiguities of
+Arthur the king”).22
+The ambiguity, the emptiness of the text: in these lacks lies the
+importance of Le Roman de Silence. The gaps in the work are what
+draw us to it: as Barthes enquires, “L’endroit le plus erotique d’un
+corps n’est-il pas la ou le vetement bailie?” (“Isn’t the most erotic part
+of a body the place where the clothing parts?”).23 Silence is a text that
+refuses our violence but welcomes our jonissance. Its refusal can be
+110
+CHI'EXT LECTOR
+read in various ways—as a characteristic of female writing (writing
+about women, if not by them) unwilling to accommodate itself to
+male readings; as a Marxist text refusing to accept capitalist modes of
+textual diffusion; as a medieval “other” that will not bow to modern
+assumptions; as a Freudian polymorphous perversity that our catego-
+ries of thought about sex and gender cannot encompass, etc., all
+depending on our critical assumptions. These refusals share a com-
+mon basis: they insist on the text’s right to remain silent, to hold its
+ambiguity. To remove ambiguity from this text means to tear it, to
+falsify it, to lose its essence. Yet we can read the poem and enjoy it if
+we permit it, at the same time, to read us—to question the assump-
+tions with which we teachers, students, readers, editors approach
+medieval literature. This literature cannot be forced to give up its
+secrets, if only for the reason that so many of these secrets are
+ambiguities or silences. We cannot recreate the historical context of
+the poem; all we can find is a Tuesday in a week and a year which can
+never be known. We cannot effectively summarize, we cannot com-
+pletely translate. We cannot, in short, make our reading “comfort-
+able”; we cannot subject the text to ourselves. Yet we can, and
+perhaps must, read and be read, enter into the world of Romans, of the
+roman, and see what we can experience of mute -e in the gap between
+-us and -a, in the ambiguity of silence.
+Notes
+1.	“Tcxtc de plaisir: cclui qui contcntc, emplit, donne de l’cuphoric; cclui qui vient
+de la culture, nc rompt pas avcc cllc, est lie a unc pratique confortable de la lecture.
+Tcxtc de jouissancc: cclui qui met cn etat de perte, cclui qui dcconfortc (pcut-ctrc
+jusqu’a un certain ennui), fait vacillcr les assises historiques, culturcllcs, psychologi-
+ques, du lectcur, la consistancc de scs gouts, de scs valcurs, ct de scs souvenirs, met cn
+crisc son rapport au langage,” Roland Barthes, Le Plaisir du texte (Paris: Les Editions
+du Scuil, 1973), pp. 25-26. This translation and all others in the essay arc my own.
+2.	Paradoxically, however, it is not unavailable: as of this writing the publisher still
+has a few copies on its shelf: Hcldris de Comuallc, Le Roman de Silence, cd. Lewis
+Thorpe (Cambridge: W. Hcffcr & Sons, Ltd., 1972). All references to this edition will
+be given in the text: those to the romance itself will be given by line numbers, those to
+the editorial material by page number.
+3.	Articles on the poem arc beginning to appear. Sec Kate M. Cooper, “Elie and
+L: Sexualized Tcxtuality in Le Roman de Silence" and Michele Perret, “Travesties ct
+ALLEN: AMBIGUITY OF SILENCE
+111
+transsexucllcs: Ydcs, Silence, Grisandole, Blanchandinc,” both in Romance Notes 25, 3
+(Spring, 1985) and R. Howard Bloch, “Silence and Holes: The Roman de Silence and
+the Art of the Trouvcre,” Yale French Studies 70 (1986). I am indebted to Bloch’s article
+for a number of ideas.
+4.	Barthes, Le Plaisir du texte: “Le texte cst un objet fetiche ct cc fetiche me desire”
+(p. 45). On the text's autonomy, compare also Robert S. Sturges, “Interpretation as
+Action: the Reader in Late Medieval Narrative,” DAI 40 (1980): 5856A.
+5.	This summary is a reduction of that on pages 17—22 of Thorpe’s edition.
+6.	“De la dame cscollicc,” in Anatole de Montaiglon and Gaston Raynaud, cds.,
+Recueil general et complet des fabliaux des XIIIc et XlVe siecles (1890; reprint, New York:
+Burt Franklin [n.d.]), vol. 6, pp. 95-116.
+7.	“De la dame,” vv. 602-3.
+8.	“De la dame,” v. 618.
+9.	University of Nottingham MS. Mi.LM.6, fol. 221.
+10.	MS. Mi.LM.6, fol. 222v.
+11.	These figures occur on fols. 14v, 55v, 92v, 158v, 213, 217, 218v, 227, 232v, 239,
+269, and 328. Fol. 157 contains the beginning of Gautier d'Arras's Ille et Galeron and an
+illumination of a ram bearing a staff with a cross and a flag. Thorpe suggests that the
+illuminations of animals are by a different hand from those illustrating the Roman de
+Silence (p. 6).
+12.	Questions of nature and gender abound in the romance, for the characters as
+well as for the readers. When Silence rejects Queen Eufemc's advances, the queen
+infers by this sign that the hero(inc) must be a (male) homosexual: “Certes, gel croi
+bien a critc / Quant jo li mostrai mes costcs, I Que il me dist, *Por Dcu, ostes!’ / Ene
+fu cho moult bone ensaigne / Qu’il despist femes ct desdaigne?’" (“I certainly think he
+is a homosexual, for when I showed him my side, he said to me, ‘For God’s sake, take
+it away!’ Wasn’t this a very good sign that he despises and disdains women?”) She uses
+the word erites, which derives its secondary meaning (“homosexual”) from its primary
+meaning (“heretic”). Compare Bloch, “Silence and Holes," and Alain de Lille’s De
+planctu naturae for further discussion of “right” religion, grammar, and sexuality. The
+Roman de Silence questions our concepts of sex roles as much as it questions our
+concepts of language.
+13.	This passage is a reminiscence avant la lettre of the epistle Rosencrantz and
+Guildcnstcm bear in Shakespeare’s and Stoppard’s plays, as well as of the substitution
+in Poe’s “Purloined Letter” and the literary-critical exchange of documents between
+Derrida, Lacan, and their readers over that short story.
+14.	Felix Lccoy changes this to “ance": “Corrections, Le Roman de Silence d’Hcldris
+de Cornualle,” Romania 99 (1978): 117. Though it seems reasonable, I find
+no corroboration for Thorpe’s gloss “anxiety" in either Godcfroy or Toblcr-Lom-
+matzsch. I am grateful to Professor Michel-Andre Bossy for the reference to Lecoy’s
+article, which revises Thorpe's edition of the poem thoroughly and should be used in
+any study of Silence.
+15.	“Ades,” v. 583, and note, p. 241.
+16.	Plato, Cratylus, in The Dialogues of Plato, trans. Benjamin Jowett, 3rd cd.
+(Oxford: Oxford University Press, 1892), 384d.
+17.	Compare Monique Wittig, Les Guerillieres, trans. David Le Vay (New York:
+Avon, 1973): “Unhappy one, men have expelled you from the world of symbols and
+yet they have given you names, they have called you slave, you unhappy slave.
+Masters, they have exercised their right to master. They write, of their authority to
+112
+CAVEAT LECTOR
+accord names, that it goes back so far that the origin of language itself may be
+considered an act of authority emanating from those who dominate. . . . the language
+you speak is made up of words that are killing you,” as cited by Sandra M. Gilbert and
+Susan Gubar, “Sexual Linguistics: Gender, Language, and Sexuality,” New Literary
+History 16 (1985): 517.
+18.	Gilbert and Gubar (p. 521) cite Xaviere Gauthier to similar ends: “ ‘as long as
+women remain silent’—that is, as long as women remain linguistically ‘female’—‘they
+will be outside the historical process. But if they begin to speak and write as men do,
+they will enter history subdued and alienated' ” (“Existe-t-il une ecriture de femme?”,
+trans. Marilyn A. August, in New French Feminisms, cd. Elaine Marks and Isabelle de
+Courtivron [Amherst, Mass.: University of Massachusetts Press, 1980]).
+19.	Lecoy removes the period from line 1657, which reads, "De Cador, de s'en-
+gendreiire,” which, Lecoy states, "se rapporte d ce qui suit,” “Corrections,” p. 116.
+20.	“It becomes necessary to speculate that since the thirteenth and fourteenth
+centuries male writers may have thought linguistic culture to be holding linguistic
+anarchy at bay because they have had to translate the ‘high themes’ of the classics into
+what they fear is a low language whose very accessibility might seem to vulgarize
+their noble subjects” (Gilbert and Gubar, p. 532); compare also Walter J. Ong, Fighting
+for Life (Ithaca: Cornell University Press, 1981), p. 37.
+21.	Jean Bodcl, Les Saisnes, cd. E Menzel and E. Stengel (Marburg, 1906), v. 9.
+22.	Dante, Convivio, 4.10.
+23.	Barthes, Le Plaisir du texte, p. 19.

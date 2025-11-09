@@ -1,0 +1,583 @@
+﻿What Silence Desires: Female Inheritance and the Romance of Property in the Roman de Silence
+
+Silence, the girl raised as a boy who becomes a minstrel of enormous tal-
+ent and a knight of great prowess in the thirteenth-century romance that
+modern editors call simply the Roman de Silence, has understandably aroused
+the gender-bending curiosity of modern readers. The author, Heldris of Corn-
+wall, is otherwise unknown, and the question has even been asked whether
+Heldris — like that other Cornwall native Silence herself— was a "transves-
+tite she.”1 Silence’s parents conceal her female body with masculine clothes in
+order to circumvent a capricious law that prevents women from inheriting
+property, but in her life as a man Silence turns out to be a bit too successful
+for her own good. She eventually becomes the favorite knight of King Evan
+of England, the same king whose law she is dodging, and the plot consists pri-
+marily of adventures and misadventures arising from the dramatic possibili-
+ties of a cross-dressed hero and the danger of being discovered.
+Academic readers of the early twenty-first century have been prepared —
+perhaps too well prepared — for the delights and frustrations of such a text
+by everything from Shakespearean comedy to feminist theory.2 Despite some
+anachronistic excesses, much progress has been made in understanding this
+recently-discovered text, e^ecially the unusually large scope it gives to ex-
+ploring the construction of gender. A growing body of work also now recog-
+nizes the centrality of the “feudal politics of lineage" to Silences story.3 For
+Heldris's contemporary audience, property and gender were inextricably
+linked as determiners of identity, and the gender games in which the text en-
+gages are at least partly a fictionalized space in which to explore other ques-
+tions of social identity.4 The law of inheritance that provides the central plot
+motivation to Silence is no mere plot device, but rather Speaks to fears and de-
+sires with deep roots in the realities of thirteenth-century inheritance prac-
+tices. Silence's story, written during a century in which the rapid evolution
+of those practices reflects well-known power struggles between kings and
+nobles — and driven as it is by a desire to preserve landholdings — may aptly
+be called a romance of property rights.
+Reading the romance in terms of the desire for property resolves two im-
+pediments to interpretation. First, it helps explain the status of the Roman de
+Silence as a chivalric verse romance at a time when prose romance and ver-
+nacular historiography were in the ascendant.5 Though Heldris does not avail
+himself of the legitimating effects of prose or of historical subject matter, the
+Roman de Silence does give voice to many of the same preoccupations that
+were spurring the rise of prose romance and prose histories at the time of
+its composition. Much contemporaneous writing addresses such topics as
+dynastic succession and the proper relations of princes and nobles by refer-
+ring to an authoritative past that has been idealized into a model for the pres-
+ent, a transcendent model that tends to subsume the actions of individuals
+into narratives with long (and often tragic) trajectories.6 Heldris, on the other
+hand, by translating the secure transmission of landholdings into the object
+of a traditional romance quest, orients his narrative around the identity for-
+mation of an individual. The practical difficulties faced by thirteenth-centry
+nobles in acquiring and holding onto the landed wealth that defined their
+identity resonate deeply with the sudden reversals and random interruptions
+of Silence's romance narrative, yielding a relationship to contemporary concerns
+every bit as tangible as the idealized and linear patterns of contemporaneous
+prose narratives. The poem’s heroine makes her way in the world as a disin-
+herited heiress whose male disguise is constantly in danger of being discovered,
+and her struggle to keep her inheritance, like any other romance quest, has
+obstacles that must be overcome. Silence's quest thus shares the characteristic
+pitfalls and shifting fortunes common to romance, but it also dramatizes —
+from the perfective of an individual heiress — the real-world complications
+of the quest for property.
+The second benefit of a reading that foregrounds the inheritance of
+property is that it allows at least a tentative answer to the question, “What
+does Silence desire?” Others have noted that Silence, although she is desired
+by many, has no perceptible desires of her own.7 Or, more precisely, her only
+explicit statements of desire take a negative form, as in these remarks at the
+age of twelve (the threshold of medieval adulthood): '"Ne voel perdre ma
+grant honor, I Ne la voel cangier a menor. / Ne voel mon pere desmentir’” ("‘I
+don't want to lose my high position; /1 don’t want to exchange it for a lesser,
+/ and I don’t want to prove my father a liar'” [2651-2653]).8 The narrator,
+who goes along with Silence’s self-negation by using masculine pronouns to
+describe her, confirms that her renunciation of desire is habitual: "Et tols jors
+ert pres a contraire / A Cho que ses cuers voloit faire" (“He was always ready
+to go against / what his heart wanted him to do” [2677-2678]). It is easier
+to construe Silence’s negatively-framed statement of desire if we remember
+Northrop Frye’s definition of desire's function in romance: “the quest-ro-
+mance is the search of the libido or desiring self for a fulfillment that will
+deliver it from the anxieties of reality but will still contain that reality.”9 As
+a cross-dressed female who aspires to inherit her father's patrimony, Silence
+is one sort of desiring subject in this romance of property, one who has her
+choice of identity crises: she can be a disinherited heiress or a female knight.
+Both alternatives are feudal unthinkables that reflect, in Frye's terms, a cul-
+tural desire to be delivered from the uncertainties of noble inheritance but
+simultaneously to engage and overcome those anxieties in a romantic fan-
+tasy that contains a recognizable feudal reality. And the desire of Silence
+and her parents to preserve her inheritance operates in tandem with another
+version of the desire to be delivered from feudal uncertainty: since marrying
+an heiress was one of the few methods by which a medieval nobleman could
+add to his patrimonial holdings and increase his status, Silence also func-
+tions as the desired object of the quest.10
+Silence gives voice to feudal anxieties via the atmosphere of uncertain
+outcomes and shifting procedures that the poem shares with the aristocratic
+culture that produced it. The feudal hierarchy was in its application a highly
+varied network of practices, with the laws governing inheritance often be-
+coming in actual use a game of find-the-loophole. And who got to inher-
+it what depended at least as much on custom and local patronage as it did
+on law. Both customs and laws were in rapid transformation at the time of
+the poem's composition in the second half of the thirteenth century. At this
+time, relatively few noble inheritances would have been governed strictly by
+primogeniture (even fewer in France than in England), and in fact medi-
+eval noblemen — with the help of a gro wing legal profession — went to great
+lengths to provide for their daughters, younger sons, and widows. Silence's
+father Cador, whose idea it is to cross-dress his daughter, is in one sense do-
+ing what every medieval nobleman did: maneuvering to protect his property
+and to take care of his family interests. Cador's maneuvering, however, must
+operate within strict limits because he and his wife Eufemie hold their land
+directly from the king of England, making them tenants-in-chief subject to
+stringent royal controls in matters of property succession. They would not
+have available to them the legal instruments for designing a custom inheri-
+tance package that were becoming increasingly popular with those of lower
+aristocratic rank, and the royal decree they circumvent stands as a reminder
+that inheritance rights were a major bone of contention between medieval
+kings and their greatest vassals.
+The application of feudal history to Silence would admittedly be easier if
+we knew more details about its author and its first audience, but while it is
+impossible to know the provenance of the poem with certainty, the contest
+between royal control and baronial privilege was of equal concern in both
+France and England during the thirteenth century. In favor of English influ-
+ence on the poem, Heldris does claim to be from Cornwall, the setting is in
+England, and English law and custom are strikingly relevant to the property
+considerations in the text. Lynne Dahmen has convincingly related Silences
+themes of lineage and feudal legitimacy to other insular romances of the
+period.11 The poem’s heroine, however, does a good deal of cross-Channel
+shuttling as a minstrel and a knight, and there is no reason to think the poem's
+author stayed in one place either. The only extant manuscript of the poem
+is written in Picard dialect (not Anglo-Norman), and French inheritance
+practices, though exhibiting considerable regional variation as well as dif-
+ferences from those of England, also show substantial resonance with the
+situation in the poem. The process of centralization that Norbert Elias has
+called the "monopoly mechanism” peaked somewhat earlier in England than
+in France, but on both sides of the English Channel the thirteenth century
+was characterized by royal aggrandizement and noble attempts to contain
+it.12 French nobles would certainly have been aware of the more restrictive
+controls under which their English counterparts had traditionally lived, but
+also of Magna Carta and its attempt to limit royal power. So the dramatiza-
+tion of inheritance and royal control might play differently on opposite sides
+of the English Channel, but it would still play.
+In Silence, the heavy royal hand in matters of noble inheritance comes
+to the fore when King Evan institutes the law that prevents women from in-
+heriting in response to an inheritance dispute involving twin sisters:
+
+.jj. conte esposent les puchieles.
+Cho dist cascuns qu'il a 1'ainsnee;
+Por quant li uns a la mainsnee. /
+Mellee i ot por son avoir,
+Car cascuns [violt] la terre avoir.
+Li uns le violt par mi partir;
+Li altres dist qu'il iert martyr
+Et vis recreans en batalle
+An^ois qu'il a plain pie i falle. (280-288)
+[Two counts married the girls.
+Each one claimed to have the older,
+but one of the two must have had the younger.
+There was a quarrel over the inheritance,
+for both of them wanted to have the land.
+One wanted to share it equally;
+the other said he would be a martyr
+and vile coward in battle
+before he would yield an inch of it.]
+The counts attempt to settle the dispute through trial by combat, but both
+are killed in the process. It is as though feudal culture threatens to self-de-
+struct when confronted with perfect equality, either in the disposition of
+property or on the field of judicial combat. King Evan is so outraged by the
+deaths of the two counts that he declares, “no woman shall ever inherit again
+/ in the kingdom of England / as long as I reign over the land" ("Ja feme n'iert
+mais iretere / Ens el roiame s'Engletiere, / Por tant com j’aie a tenir tiere"
+[314-316]).
+
+In something like a twisted version of conjointure, that familiar romance
+technique whereby multiple story lines are woven into one harmonious
+whole, the case of the two sisters, their count husbands, and King Evan func-
+tions as a disjointure in which several dissonant social realities collide in one
+romance situation. All the participants have differing interests going into
+the dispute; all experience significant losses as a result of it; and the new law
+damages the interests of heiresses — such as the poem's heroine — who are
+not yet born at the time of its inception. With some modification, Fredric
+Jameson's comments on the cultural underpinnings of romance shed light
+on the social discord of this episode in Silence:
+As for romance, it would seem that its ultimate condition of figura-
+tion ... is to be found in a transitional moment in which two distinct
+modes of production, or moments of socioeconomic development, co-
+exist. Their antagonism is not yet articulated in terms of the struggle
+of social classes, so that its resolution can be projected in the form of a
+nostalgic (or less often, a Utopian) harmony.13
+If we substitute mode of inheritance for mode of production and remember
+that the struggle is not a latent one between classes but an overt one within
+the aristocratic class, Jameson’s formulation suggests the power of romance
+to address the anxieties surrounding a moment of transition. New regula-
+tions and shifting practices regarding the division of land among sisters, the
+status of heiresses in relation to their husbands and male relatives, and the
+role of the king in the inheritances of his greatest vassals were sources of con-
+siderable disquiet for thirteenth-century nobles. Silence's struggle to resolve
+her inheritance problems is indeed a utopian quest to work out such anxiet-
+ies. In the poem’s dramatic denouement, Silence, after maintaining her mas-
+culine disguise through many narrow scrapes and high adventures, is finally
+revealed by Merlin’s magic to be female. In this idealized romantic outcome,
+the king restores Silence’s land to her, repeals the law forbidding female in-
+heritance, and marries her himself, thus bringing psychological resolution to
+an unresolved social problem.
+But before I say more about the poem's idealized ending, the situation
+of the twin sisters and their judicially killed husbands needs further con-
+textualization. Heldris’s episode of sisterly discord was not the first romantic
+treatment of such inheritance difficulties; it is essentially an inside-out ver-
+sion of a similar story found a century earlier in the Yvain of Chretien de
+Troyes (4704 ff., 5820-6446), and the differences between the two versions
+illustrate the shifting status of female heirs during the thirteenth century.
+In Chretien’s story, it is the sisters rather than their husbands who quarrel
+over the inheritance, and there is no dispute about which sister is older, only
+about whether the elder should divide the inheritance with the younger. In
+Yvain, the equally matched combat between Yvain and Gawain (the champi-
+ons the sisters have chosen) ends when the two friends recognize each other
+and — with a courtesy contrasting sharply with the grim determination of
+the counts in Silence — each proclaims he has been defeated by the other.
+And King Arthur’s intervention could hardly be more opposite to King Evan's:
+Arthur proclaims that the younger sister shall have her share. In Chretien's
+time, the division of land between sisters could still have been seen as an in-
+novative resolution and the king's intervention as a noble gesture that settled
+a matter in which he had no personal stake. But by Heldris’s time, as we shall
+see, kings took a much more direct interest in the division of land and were
+acutely conscious that dividing it among heirs could remove some of it from
+royal control.
+Silence thus conflates together several issues that would have been at
+stake when sisters stood to inherit property. If it were really just a dispute
+about which child was the elder, it would have been a problem for twin sons
+as much as for twin daughters. Inheritance by daughters, however, was of-
+ten considered more partible than inheritance by sons; girls were expected to
+share. Not, however, in any straightforward or universally attested fashion,
+and especially not in any way that remained constant during the course of
+the thirteenth century or on both sides of the English Channel. At the be-
+ginning of the century in England there was usually a mix of feudal law and
+family obligation in which one daughter inherited the property and did hom-
+age for it, but was in turn expected to provide for her sisters. Normally the
+heiress would have been chosen by the overlord, and which daughter the lord
+chose depended as much on her husband's relationship with that lord as it did
+on the heiress's seniority.14 Both the choice of which daughter would inher-
+it and how that daughter would provide for her sisters became increasingly
+regularized during the course of the thirteenth century, although that regu-
+larization proceeded more slowly than did corresponding customs regarding
+male inheritance, and a higher degree of uncertainty would have accompanied
+any devolution of land in which the heir or heirs were female. Hie expecta-
+tion that the lord would choose the eldest daughter gradually became more
+fixed, but so did the expectation that the eldest daughter would divide the
+inheritance equally with her sisters. In France, the partition of estates among
+both male and female heirs had long been more common than in England,
+but there were considerable regional variations, and discontinuities between
+customary law and practice could easily lead to conflict.15 Despite more var-
+ied practices, the makers of French law, like their English counterparts, also
+attempted to codify female inheritance customs in a way that kept the main
+residence and its associated feudal service with the eldest sister but divided
+the land equally. In Champagne, for example, a baronial council of 1212 leg-
+islated that when land was divided among sisters, “the eldest daughter would
+inherit the castle, but her sisters would share all other assets of the inheri-
+tance equally.”16
+The increasingly standardized partitioning of land between sisters may
+have been a welcome innovation to most thirteenth-century aristocrats, but
+from the point of view of the overlord or king, the practice brought with it the
+same problems as the older system of parage upon which it was based. Parage
+was a partition of land among male heirs wherein the younger brothers did
+homage to the eldest for their portions and only the eldest did direct homage
+for his portion to the original lord. The practice had been brought to England
+by the Normans but abolished in the mid-twelfth century; in France it was a
+common practice until expressly forbidden in 1209 by Philip Augustus.17 The
+reason for its demise during the tenure of strong central rulers seems clear:
+only the eldest brother’s portion was under the direct control of the overlord,
+and the revival of the practice as a model for dividing inheritances among fe-
+male heirs also reintroduced the diminishment of central control. Depending
+on whether one was a lord or a vassal, an elder sister or a younger sister, born
+early in the thirteenth century or later, the changes in how land was parti-
+tioned among heiresses would have been variously welcome or unwelcome,
+and the transitions were neither smooth nor uncontented.
+The overdetermined situation of the two counts and the twin sisters in
+the Roman de Silence sets a match to this volatile mix. The indistinguish-
+ability of the counts as much as the exact parity of the daughters ensures
+that there would be a conflict regardless of whether older customs or newer
+customs are applied, but the particular nature of the dispute highlights the
+emerging inheritance practices of the thirteenth century. One of the counts
+claims that the inheritance should be divided equally, suggesting that newer
+rules favoring partition apply but then it makes little sense for him to claim
+that his wife is the elder daughter and the sole heir. The other count insists
+that his wife is the elder sister, a fact that would automatically favor him
+only if the newer rules are in effect. In that case, however, there would also
+be a formal expectation to divide the property equally, an option he finds
+less attractive than dying as a recreant in battle (at least he gets his second
+choice). The king finds no reason to favor one count's claim over the other's,
+and his extreme reaction to the disastrous duel calls into question the narra-
+tor’s earlier claim that he was known to be a king who "upheld justice in his
+realm" ("ot justice en sa bailie" [119]). All of the participants in the dispute
+seem to find the challenges posed by female inheritance insurmountable,
+and the contest over the sisters' land dramatizes the dynamics — and the
+anxieties — of a period of transition.
+While twin sisters whose husbands kill each other constitutes a roman-
+tic exaggeration, sisterly disputes over inheritance certainly happened, and
+may even have been relatively frequent.18 On the British side of the English
+Channel, the question of dividing land among sisters figured in such promi-
+nent cases as the disposition of the earldom of Chester in mid-century and
+of the kingdom of Scotland at the end of the thirteenth century.19 In at least
+two humbler cases from earlier in the century, a younger sister was placed in a
+nunnery by the elder sister and her husband. This might have been considered
+an appropriate fulfillment of the family obligation to provide for the non-in-
+heriting sister by the sister doing the placing, but in neither case was it consid-
+ered so by the sister who was placed. The younger sister in one case managed
+to get married surreptitiously, escaped from the nunnery with her new hus-
+band, and claimed the right to inherit property along with her sister. After
+the new husband cleared himself from abduction charges, the younger couple
+began a lengthy litigation with the older couple. In the other case the younger
+sister had been placed in the nunnery as a young child and claimed that “she
+properly returned to the world when she reached the age of discretion.” She
+was excommunicated and had to pursue her right to leave the nunnery in ec-
+clesiastical courts before taking up her property case in secular courts. She fi-
+nally reached an agreement with her elder sister about twenty-five years after
+her first claim.20 Given the alternative of such protracted litigation, settling a
+property contest by judicial combat seems almost merciful, but suffice it to
+say that the sisterly quarrel in the Roman de Silence, sensationalized though it
+is, strays little from the pattern of real thirteenth-century disputes.
+King Evan’s abolition of female inheritance in reaction to the deaths of
+the two counts pushes royal sovereignty somewhat further than any medi-
+eval king could have been confident in achieving. It does, however, drama-
+tize the difficulties of a time when inheritance customs were in flux and
+when the king of England maintained older, more stringent forms of control
+over his chief tenants than those lords could maintain over their tenants,
+while the king of France was enjoying the fruits of steadily increasing cen-
+tralization. Of the many forms of royal control, perhaps the most relevant
+to Silence were the restrictions on alienation, especially as it relates to the di-
+vision of land between female heirs. Alienation simply means a transfer of
+ownership, but came into use as a conditional gift whereby the grantor could
+circumvent primogeniture by deeding land to someone on the condition that
+the grantee deed it back to someone the grantor Specified, usually a younger
+son or daughter.21 There are two important points about alienation in the
+second half of the thirteenth century: first, it was rapidly growing in use
+during this period, and second, it was available to the greatest fief-holders
+only via an expensive license from the king. In England, Henry III expressly
+forbid unlicensed alienation by tenants-in-chief in 1256.22 In France, a royal
+ordinance of 1275 established higher tariff rates for alienation of land held
+from the king than for alienation of land held from lesser lords.23 Lords who
+held land directly from the king thus had the least flexibility of any freeborn
+persons in how they could dispose of their property.
+The adtions of real thirteenth-century kings make clear why, in the Ro-
+man de Silence, King Evan does not attempt to choose one daughter as heir. If
+he were to partition the land equally as Chretiens King Arthur does, Evan
+would lose direct control over the younger sister's portion since she (or her
+husband) would owe feudal service not to the king but to the older sister. On
+the other hand, allowing the dispute to proceed to judicial combat also has
+risks; a general outbreak of violence after the two counts are killed is only
+narrowly avoided (307-308). By entirely doing away with women's ability
+to inherit, King Evan appears to be dodging alternatives that are from his
+point of view equally unattractive, and his decree would have bothered some
+members of Heldris's audience less than others. There were longstanding
+complaints in medieval society that female inheritance damaged the social
+structure by fragmenting great estates,24 and the variety of opinion is clearly
+represented in the poem in the words of those who swear to uphold the king's
+decree: "Alquant le font ireement / Et li plusor moult liement, / Qui n'en
+donroient une tille” ("Some did it in anger, / but most did it quite gladly — /
+the ones who had nothing to lose" [321-326]). But in the real England,
+unlike King Evan's, no one did anything to stop women’s ability to inherit,
+and for good reason: abolishing female inheritance would have seriously dis-
+rupted the functioning of aristocratic society. Between 1200 and 1327,57.3%
+of English baronies were inherited by women at least once and 19.5% of all
+baronial inheritances during the period went to women.25 The importance
+of female inheritance pertained to the situation in France as well as England
+and at various levels of the feudal hierarchy. In the County of Champagne,
+for example, “women represented over 20 percent of the ordinary fief hold-
+ers” during the third quarter of the thirteenth century.26 If over half the bar-
+ons in the land owe their holdings to a female ancestor and lesser aristocratic
+inheritances owe a similar debt to the maternal line, a huge sector of the
+economy would simply disappear into the king's coffers if that king did away
+with women’s ability to inherit.
+The emphasis on female inheritance seems to be a conscious choice on
+Heldris’s part, since, in his literary source from the Arthurian Vulgate, it is
+not the cross-dressed maiden but rather her father and brother whose inher-
+itance is lost and then restored.27 It is not simply, though, the fact of wide-
+spread female inheritance in actual thirteenth-century practice that makes
+Evan’s law seem so outrageous, but also the particular function of women's
+inheritance in noble society. We have seen that there was not much freedom
+in the way the tenants-in-chief could dispose of their property, and if it was
+difficult for one noble to grant land to another, then that meant it was also
+difficult to become the recipient of someone else’s grant. What little wiggle
+room there was derived largely from female inheritance. The loss involved
+in the fragmentation of an estate when women inherited was someone else’s
+gain, and even when an eState fell to a single heiress it was still someone else’s
+gain. Unlike a dowry, which usually reverted to a woman's family if she had
+no heirs, and if she did have heirs was likely to be used to provide for daugh-
+ters and younger sons, the land an heiress brought with her — fragmented
+or not — was permanently added to her husband's patrimony. By preventing
+his female subjects from inheriting property, Evan is also depriving his male
+subjects of an important and rare means of acquiring land and status.28
+Silence turns out to be an only child, thus underscoring the crude
+arbitrariness of a law designed to avoid the problems of partible inheritance.
+There is, however, the precedent of Silence’s mother Eufemie, who had also
+been the only child of the Count of Cornwall. Under ordinary circumstances
+Eufemie's father could not make a match for her without the king’s approval,
+and if he died before his daughter married, the king would have the right of
+wardship, which means he would collect the profits from her land until such
+time as he arranged a marriage for her to a man of his choosing. Giving the
+daughter and the land with her to a man of his own choosing is exactly what
+King Evan does in arranging the marriage of Silence's parents Cador and
+Eufemie, except he does so while the Count is still alive and without even
+consulting him. The king's adviser who explains the situation to Cador re-
+minds him of the inheritance law saying, “the land should have been this
+lady's, / but she no longer has a right to it” ("Cesti devroit estre la terre, /
+Mais n’i a droit qu'ele puist estre" [1453-1454]), and the loss of the woman's
+rights is also a loss of her father’s.29
+The abolition of female inheritance in Silence thus exaggerates the already
+stringent control a thirteenth-century king had over his barons, especially
+over their female children, and Eufemie's situation also resonates with an-
+other royal practice. Upon the death of one of his tenants-in-chief the king
+automatically took formal possession of the land, granting it back to the heir
+only when the heir had paid the relief a kind of inheritance tax. By enforc-
+ing this rule the king preserved for himself another right that lesser lords
+had long since been forced to give up.30 King Evan's freedom to dispose as he
+pleases with the Count of Cornwall’s land and daughter while the Count is
+still alive is simply a nightmare version of the prerogatives thirteenth-cen-
+tury kings actually had over their chief tenants. For the greatest fief-holders
+of thirteenth-century kings, the ability to reprogram the sex of a child must
+have seemed almost as attractive — and almost as likely — as any other
+mechanism for evading royal control. The fluidity of Silence's gender mirrors
+the social reality in which the laws and customs governing female inheri-
+tance were less fixed than their masculine counterparts and where heiresses
+of great estates offered noblemen the rare opportunity to join the king's mo-
+nopoly instead of being excluded from it.
+The risk of partitioning estates and the hope of acquiring them were
+both possibilities, we have seen, when women stood to inherit property in
+late thirteenth-century France and England. King Evan has it both ways:
+he forbids female inheritance when the division of an estate between sisters
+threatens the loss of royal control over the younger sister’s portion, but he
+reinstates it when a single heiress — Silence herself— would bring a great
+estate on the market. 'Then he marries that heiress himself, thus asserting
+direct and undisputed lordship over her land. This adtion would extinguish
+the county of Cornwall as a separate barony upon the death of Cador, fur-
+ther centralizing and aggrandizing the king's authority. Our temptation to
+read this final scene of the romance in terms of Silence's personal success or
+failure in resisting the patriarchy may cause us to forget that Heldris's first
+audience was more interested in ascending the patriarchy than resisting it.
+Aristocratic anxiety in the face of royal strictures is merely the flip side of
+the nobility’s romantic longings for land and status. On the most literal level
+Silence overcomes the uncertainties of her upbringing and environment to
+attain the highest status possible for a woman of her birth. She does not, of
+course, become queen through any ordinary means, and the fact that the
+best knight in the land marries the king functions as a fantasy of upward
+mobility for those nobles who could not beat the king at the game of prop-
+erty politics, but also could not join him as Silence does.
+
+Craig A. Berry
+Independent Scholar
+
+1	Sarah Roche-Mahdi, “Introduction,” in Heldris of Cornwall, Silence: A Thirteenth-
+Century French Romance, ed. and trans, eadem (East Lansing: Colleagues Press, 1992),
+ix-xxiv, here xi n. 2.
+2	Regina Psaki, in her edition of the poem, calls it “at least proto-feminist’ (“Intro-
+duction," in Heldris de Cornualle, Le Roman de Silence, ed. and trans, eadem [New York:
+Garland, 1991], ix-xxxvii, here xxx), and another recent editor suggests that it deals
+with "matters that the modern reader might reasonably expect to find expressed so ex-
+plicitly ... in French feminist criticism of the 1970s rather than in a medieval romance*
+(ed. Roche-Mahdi, xx). Edward J. Gallagher has remarked that the romance has “an
+almost uncanny air of modernity about it* (“The Modernity of Le Roman de Silence,’
+University of Dayton Review 21.3 [1992]: 31-42, here 39). This is a story, the critics tell
+us, about the "politics of gender" (Roberta L. Krueger, Women Readers and the Ideology
+of Gender in the Old French Verse Romance [Cambridge: Cambridge University Press,
+1993] chap. 4); "the role of performance in gender identification" (Peggy McCracken,
+"'The Boy Who Was a Girl': Reading Gender in the Roman de Silence," Romanic Review
+85 [1995]: 517-36, here 517); "deconstructed masculinity” (Lorraine K. Stock, "The Impor-
+tance of Being Gender 'Stable': Masculinity and Feminine Empowerment in Le Roman
+de Silence," Arthuriana 7.2 [1997]: 7-34, here 9); 'sexualized textuality," (Kate Mason
+Cooper, "Elie and L: Sexualized Textuality in the Roman de Silence,” Romance Notes 25
+[1985]: 341-60); "gender neutrality" (Erin F. Labbie, "The Specular Image of the Gen-
+der-Neutral Name: Naming Silence in Le Roman de Silence," Arthuriana 7.2 [1997]:
+63-77); "queer identities" (Elizabeth A. Waters, “The Third Path: Alternative Sex, Al-
+ternative Gender in Le Roman de Silence," Arthuriana 7.2 [1997]: 35-46, here 38); and
+“lesbian desire" (Kathleen M. Blumreich, "Lesbian Desire in the Old French Le Roman
+de Silence," Arthuriana 7.2 [1997]: 47-62). It is a “texte dejouissance" (Peter L. Allen,
+“The Ambiguity of Silence: Gender, Writing, and Le Roman de Silence," in Sign, Sentence,
+Discourse: Language in Medieval Thought and Literature, ed. Julian N. Wasserman and
+Lois Roney [Syracuse: Syracuse University Press, 1989]: 98-112, here 98) in which the
+intertwined ambiguities of gender and language make it a "map of its own misreadings"
+(R. Howard Bloch, “Silence and Holes: The Roman de Silence and the Art of the Trou-
+vere," Yale French Studies 70 [1986]: 81-99, here 98).
+3	The phrase belongs to Sharon Kinoshita, who wisely observes, "any attempt to
+gauge the political significance of Silence without taking into consideration the social
+institutions and practices by which feudal society reproduced itself is at best partial and
+at worst misleading": "Heldris de Cornualle's Roman de Silence and the Feudal Politics
+of Lineage," PMLA 110 (1995): 397-409, here 397). Kinoshita has recently extended
+this work in “Male-Order Brides: Marriage, Patriarchy, and Monarchy in the Roman de
+Silence," Arthuriana 12.1 (2002): 64-75.
+4	Until recently the social dimension of the poem was seldom viewed as centrally im-
+portant to its meaning, noteworthy exceptions being Simon Gaunt, "The Significance
+of Silence," Paragraph 13 (1990): 202-16, who suggests, "Heldris's praise of Silence re-
+inforces class hierarchies rather than breaking down gender stereotypes' (212); and
+Kinoshita, "Feudal Politics." Recent work emphasizing the importance of genealogy,
+property, and class includes: Kinoshita, "Male-Order Brides"; Peggy McCracken, The
+Romance of Adultery: Queenship and Sexual Transgression in Old French Literature (Phila-
+delphia: University of Pennsylvania Press, 1998), who notes that Silence is 'a figure who
+seems to subordinate erotic desire to a desire for property and proper succession** (148);
+and Robert S. Sturges, "The Crossdresser and the Juventus: Category Crisis in Silence,’
+Arthuriana 12.1 (2002): 37-49.
+5	On the tendency of thirteenth-century historical writing to fashion itself after
+romance, see Gabrielle M. Spiegel, Romancing the Past: Tie Rise of Vernacular Prose Histori-
+ography in Thirteenth-Century France (Berkeley and Los Angeles: University of California
+Press, 1993); and eadem, The Past as Text: Tie Tieory and Practice of Medieval Historiogra-
+phy (Baltimore: Johns Hopkins University Press, 1997), esp. chaps. 10-11.
+6	Spiegel, in both of the works already cited, addresses in detail the purposes and
+forms of thirteenth-century writing about the past. On the adoption ofhistoriographical
+concerns into romance, see Lee Patterson, "The Romance of History and the Alliterative
+Mort Arthure," in idem, Negotiating the PaSt: TieHistorical Understanding of Medieval Lit-
+erature (Madison: University of Wisconsin Press, 1987), 197-230.
+7	McCracken, "The Boy Who Was a Giri*,’ 530; Barbara Newman, From Virile
+Woman to WomanChrist: Studies in Medieval Religion and Literature (Philadelphia: Uni-
+versity of Pennsylvania Press, 1995), 165; and eadem, God and the Goddesses: Vision,
+Poetry, and Belief in the Middle Ages (Philadelphia: University of Pennsylvania Press,
+2003), 122-34.
+8	Quotations are from Silence, ed. and trans. Roche-Mahdi. Subsequent citations
+appear in the text.
+9	Northrop Frye, Anatomy of Criticism (New York: Atheneum, 1967), 192.
+10	See Georges Duby, ‘"Women and Power,* in Cultures of Power: Lordship, Status,
+and Process in Twelfth-Century Europe, ed. Thomas N. Bisson (Philadelphia, University
+of Pennsylvania Press, 1995), 69-85. Duby notes that when a woman stood to inherit a
+lordship, 'if she chanced to be an orphan without a brother, then the husband gathered
+up with her the power of which she was the legitimate holder* (71).
+11	Lynne Dahmen, “Heldris’ Use of Insular Materials in the Roman de Silence,"
+paper at the International Congress on Medieval Studies, Kalamazoo, MI, 5 May 2000.
+I am indebted to Professor Dahmen for providing me with a copy of this unpublished
+paper. As Dahmen notes, much of Susan Crane's work on insular romances is helpful in
+articulating the intersection of history and romance in Silence; see esp. chap. 2, "Land,
+Lineage, and Nation,” in S. Crane, Insular Romance: Politics, Faith and Culture in Anglo-
+Norman and Middle English Literature (Berkeley: University of California Press, 1986),
+53-91.
+12	Norbert Elias, Ute Civilizing Process: Sociogenetic and Psychogenetic Investigations,
+trans. EdmundJephcott (Oxford: Blackwell, 2000), 263-64,266-67,268 ff. On the rapid
+increase of the royal monopoly in France under Philip Augustus, see Jean Dunbabin,
+France in the Making 843-1180 (Oxford: Oxford University Press, 1985), 371-73; John
+W. Baldwin, Ute Government of Philip Augustus: Foundations of French Royal Power in the
+Middle Ages (Berkeley: University of California Press, 1986).
+13	Fredric Jameson, The Political Unconscious: Narrative as Socially Symbolic Act
+(Ithaca: Cornell University Press, 1981), 148.
+14	S. F. C. Milsom, “Inheritance by Women in the Twelfth and Early Thirteenth
+Centuries,” in On the Laws and Customs of England: Essays in Honor of Samuel E. Thorne,
+ed. Morris S. Arnold et al. (Chapel Hill: University of North Carolina Press, 1981),
+60-89, here 66.
+15	Malcom Vale, The Angevin Legacy and the Hundred Years War 1250-1340 (Ox-
+ford: Blackwell, 1990), 82,101-2.
+16	Theodore Evergates, ed. and trans., Feudal Society in Medieval France: Documents
+from the County of Champagne (Philadelphia: University of Pennsylvania Press, 1993), 51.
+17	On parage and its abolition see Baldwin, The Government of Philip Augustus, 262-
+63; Marc Bloch, Feudal Society, trans. L. A. Manyon (1961; repr. London: Routledge,
+1989), 205,208; Ch. Petit-Dutaillis, The Feudal Monarchy in France and England, trans.
+E. D. Hunt (London: Routledge & Kegan Paul, 1936), 303. On later female inheritance
+practices derived from parage, see Evergates, Documents from the County of Champagne,
+49-54; J. C. Holt, “Politics and Property in Early Medieval England,” in Landlords, Peas-
+ants, and Politics in Medieval England, ed. T. H. Aston (Cambridge: Cambridge Uni-
+versity Press, 1987), 65-114, here 107; Scott L. Waugh, “Women’s Inheritance and the
+Growth of Bureaucratic Monarchy in Twelfth- and Thirteenth-Century England,*
+Nottingham Medieval Studies 34 (1990): 71-92, here 74-75.
+18	Milsom, "Inheritance by Women,' 80. Nor does the environment on the Conti-
+nent appear to have been less litigious. Baldwin, in a survey of exchequer cases heard at
+Falaise and Caen between 1207 and 1223, sums up, 'in matters of inheritance and land
+possession, over half of the litigants were disadvantaged women and minors' (The Gov-
+ernment of Philip Augustus, 229).
+19	R. Stewart-Brown, "Ihe End of the Norman Earldom of Chester,' English Histor-
+ical Review 35 (1920): 26-53, here 46-47. In Silence, Chester is the location of the fate-
+ful trial between the two counts married to the twin sisters (293), and also the location
+of the rebellion in which Silence turns the tide in favor of King Evan (5287 ff.). On the
+fates of the real and fictional counties of Chester as exemplars of increasing royal con-
+trol, see Kinoshita, “Male-Order Brides,' 67-69.
+20 Milsom, “Inheritance by Women,” 80.
+21 For a clear introduction to such forms of alienation as entail, use, and enjointure,
+see Chris Given-Wilson, Hie English Nobility in the Late Middle Ages (London: Routledge,
+1987), 137 ff.
+22	Susan Reynolds, Fiefs and Vassals: Hie Medieval Evidence Reinterpreted (Oxford:
+Clarendon Press, 1994), 382; Scott L. Waugh, 'Non-Alienation Clauses in Thirteenth-
+Century English Charters," Albion 17 (1985): 1-14, here 12.
+23	Reynolds, Fiefs, 303.
+24	On problems associated with dividing fiefs, see Bloch, Feudal Society, 203; Theo-
+dore Evergates, Feudal Society in the Bailliage of Troyes under the Counts of Champagne,
+1152-1284 (Baltimore: Johns Hopkins University Press, 1975), 126; Scott L. Waugh, The
+Lordship of England: Royal Wardships and Marriages in English Society and Politics 1217-
+1327 (Princeton: Princeton University Press, 1988), 52.
+25	Waugh, Lordship, 19.
+26	Evergates, Feudal Society in the Bailliage of Troyes, 130.
+27	For the story of Avenable/Grisandole, see Rupert T. Pickens, trans., The Story
+of Merlin, in Lancelot-Grail: The Arthurian Vulgate and Post-Vulgate in Translation, ed.
+Norris J. Lacy, 5 vols. (New York: Garland, 1993), 1:323-29.
+28	See Waugh, Lordship, 21-24 on the redistribution of wealth among the aristoc-
+racy through the combined effects of marriage and inheritance.
+29	As Kinoshita observes, 'the king usurps the father's familial authority* ('Feudal
+Politics,” 401), but I would like to emphasize that such usurpation is already implicit in
+the abolition of female inheritance.
+30	S. F. C. Milsom, The Legal Framework of English Feudalism (Cambridge: Cambridge
+University Press, 1976), 163.
