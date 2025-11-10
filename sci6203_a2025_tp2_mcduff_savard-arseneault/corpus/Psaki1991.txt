@@ -1,0 +1,1211 @@
+# Introduction
+
+## The Problem of Authorship
+
+The Roman de Silence is a 6,700-1ine
+romance in Old French written in the second
+half of the thirteenth century. If its length
+and form--octosyllabic rhyming couplet--are
+standard.in early French romance, little else
+about the text is. Silence would seem to be
+an extraordinary work by any measure, with
+several unique elements which immediately
+guarantee its interest for modern critics.
+The text features, for example, a heroine
+raised as a boy and excelling in knightly
+activities; a debate between Nature and
+Nurture, on which of the two will ultimately
+determine Silence' s character and destiny;
+a hypothesis that gendered responses are not
+innate; and an explicit meditation on the
+ethics and politics of disinheriting women.
+The plot is compelling in itself, and all the
+more so because it occurs in a chivalric
+romance of self- -discovery and self— —conquest.
+Yet Silence, which survives in a single
+manuscript well- known to scholars and editors
+in this century, remained unedited in full
+until 1967, and has only recently attracted
+any real critical attention.
+
+The author of the Roman de Silence names
+himself in the opening and closing lines of
+the romance:
+
+Master Heldris of Cornwall
+wrote these verses just as they are.
+(1-2)
+
+Maistres Heldris de Cornualle
+escrist ces Viers trestolt a talle.
+
+Master Heldris says here and now
+
+That one should love a good woman more
+
+than he should hate or revile a bad
+one. (6684-86)
+
+Maistre Heldris dist chi endroit
+C'on doit plus bone feme amer
+Que hair malvaise u blasmer.
+
+Even with this identification, we know
+nothing at all about this person (or'persona,
+on which.more later). Neither'Heldris nor'his
+work is attested in any medieval document,
+historical or literary. The utter void
+surrounding his name is appropriate to the
+particular itinerary of his text, whose very
+name proclaims its non-reception history from
+the Middle Ages on. Silence contains
+references to 'various 'texts previous and
+contemporary to it (see "Sources and
+Influences" below), but the lines of
+influence run only one way: no echo of
+Silence has, to my knowledge, been registered
+in medieval French narrative, nor is it a
+presence in medievalist scholarship.
+
+The relative obscurity of Heldris' text
+has generated a new sub-genre, the Silence-
+summary, present in all writing about the
+romance. Rather than produce a new one, I
+will quote Peter Allen's admirably concise
+rendition:
+Because of‘a quarrel between two counts,
+King Ebain of England decrees that no
+woman shall inherit property during his
+reign. Ebain. marries one of his
+retainers, Cador, to the daughter of the
+Count of Cornwall, Eufemie (whose name
+recalls that of Ebain's queen, Eufeme).
+When the Count dies, Cador accedes to his
+position, and, when. the couple gives
+birth to a daughter, the question of
+inheritance arises. The parents decide
+to conceal the child's sex by naming her
+Silence, reasoning that if she ever
+realizes that she is female, "Silentius"
+can always Ibe changed. to “Silentia.”
+Silence is brought up as a boy, but when
+she reaches the age of puberty Nature and
+Nurture debate over her gender. She runs
+away from home with a troupe of
+jongleurs; her father, overcome with
+grief, kills all jongleurs who come to
+Cornwall. Silence, meanwhile, has
+mastered the art of poetry even better
+than her masters, who threaten to kill
+her. She returns to Cornwall and escapes
+death there because she is recognized as
+the count's "son. " Queen Eufeme, ignorant
+of Silence's sex, tries to seduce him
+(her), and, when Silence refuses, claims
+to have been his (her) victim. King'Ebain
+exiles Silence to France; Eufeme
+substitutes for Ebain's laissez-passer
+a letter asking the King of France to
+execute the bearer; the fraud is
+revealed; and Silence is recalled. Eufeme
+repeats her accusation, and Ebain assigns
+Silence the penitential task of finding
+erlin—-a task only a ‘woman can
+accomplish. Silence, of course, succeeds,
+and brings Merlin back to court, where
+he reveals such secrets as the heroine's
+true gender and the fact that Eufeme has
+
+a lover she disguises as a nun. Eufeme
+
+is executed; Silence is established as
+
+a woman; and Ebain makes her his queen.
+
+(99—100)
+
+Since every summary is in fact a reading, it
+is worth noting that Allen neglects to
+mention that Silence is recalled from France
+to quell the uprising of Ebain's rebellious
+vassals; her knightly prowess saves his
+kingdom.
+
+Silence, then, sank without discernible
+trace in its literary milieu. No maiden-
+knight-jongleurs appear in later romance
+plots because of Silence; no further explicit
+debates between Nature and Noreture astonish
+the modern reader of vernacular romance; no
+further meditations on the acculturation of
+"feminine" traits occupy the attention of
+writers of "biographical" (single-hero)
+romances. Silence arose recognizably from its
+literary-cultural matrix, but seems to have
+left no mark upon it. This lack of impact
+persisted for many centuries. By an accident
+of fate, the only manuscript which preserves
+this romance apparently lay untouched and
+unread for four hundred years, in an attic
+in Wollaton Hall, Nottinghamshire. The
+manuscript came to light again early in this
+century, as W.H. Stevenson worked at
+describing and cataloguing the manuscripts
+belonging to Lord Middleton, the estate's
+owner. Stevenson found it "in a box marked
+'Old Papers--no value,‘ with letters from
+Henry VIII and other old documents and
+manuscripts" ~(Cowper, 1959, p. 17).
+Stevenson's.Report on the Manuscripts of.Lord
+Middleton, published in 1911, announced to
+the medievalist public the contents of the
+rediscovered manuscript, now known as
+Mi.LM.6, located in the University of
+Nottingham Library. It contains, in order,
+the following: Le roman de Troie, Ille et
+Galeron, Le roman de Silence, 4000 lines of
+Le roman d 'Alixandre, La chanson d 'Aspremont,
+most of La Vengeance Raguidel , four anonymous
+fabliaux, 6 fabliaux by Gautier 1i Lens, and
+Li dis Raoul de Hosdaing. Scholars and
+editors of these other texts consulted the
+codex almost immediately in order to cull
+new variants, new information regarding
+dating, and so on (Cowper, Sheldon,
+Livingston, Armstrong). The manuscript and
+its contents were consequently announced
+briefly in several scholarly venues,
+including Romania and the Zeitschrift fur
+romanische Philologie.
+
+The manuscript thus generated
+considerable excitement, both for the texts
+it transmitted and on its own account;
+Frederick A.G. Cowper conducted a fascinating
+hunt for the "Origins and Peregrinations of
+the Laval-Middleton Manuscript" (1959).
+Moving from the evidence of text and
+illumination to that of published and
+unpublished chartes, chronicles, catalogues,
+county archives, wills, and charters, Cowper
+tentatively posits that the manuscript was
+made for'Anna-Béatrix (heir to the seigneurie
+de Gavre) and her husband, Guy IX of Laval.
+A marginal note indicates that it was still
+in France in the early fifteenth century,
+but by the latter part of that century it
+had reached England—-brought there possibly
+in 1428, subsequent to the English capture
+of the Laval domain. Lewis Thorpe, I should
+note, disputes Cowper's hypothesis at every
+turn in his introduction to Silence.
+
+My point here is that medievalist
+scholars read and disputed the Laval-
+Middleton manuscript--but not the Roman de
+Silence. Stevenson initially described the
+manuscript thus:
+
+Of volumes of exclusively literary
+interest the most noteworthy is an early
+thirteenth-century MS . of French romances
+and fabliaux, several of which are
+inedited, written in the Picard dialect
+(p. 221), which introduces a new figure,
+that of Master Heldris de Cornvalle, into
+the crowded gallery of the poets of the
+Arthurian cycle (p. 224). (xii)
+
+Apparently the gallery was too crowded,
+however, or the figure of Master Heldris too
+incongruous, for this romance to merit
+enthusiastic reception by Arthurian scholars .
+Silence was known, or at least talked about;
+but it was apparently unrecognizable as a
+text to be rediscovered for the romance
+tradition, let alone one which would modify
+the taxonomy of that tradition--until Lewis
+Thorpe began in the late 1950's to edit it.
+
+Thorpe's edition appeared serially in
+Nottingham Mediaeval Studies from 1961 to
+1967, accompanied by an exemplary study of
+the manuscript, miniatures, language of the
+poet and scribe, phonology, morphology,
+proper names, possible dates, and so cum
+Still, Silence continued to receive virtually
+no critical attention; only gradually, since
+its publication in book form in 1972, have
+medievalists begun to examine Silence in a
+specifically literary light. At present I
+know of few articles devoted exclusively to
+Silence, or referring to it in any detail.
+And yet this text, more than any single
+"unjustly-neglected masterpiece," merits
+close study for what it can tell us about how
+the modern construction of the Middle Ages
+has dictated which texts will be recognized,
+and which will remain invisible--and silent.
+
+To insist in this way on the silencing
+of this text--not, after all, willfully
+suppressed, but simply unregistered--is
+neither pointless nor precious. The image of
+speech which remains unheard is intrinsically
+relevant to the issue of our "reading" of the
+Middle Ages, a "reading" which is less an act
+of listening than of generation and
+interpretation: in reading the Middle Ages
+we construct it, speak it. Assumptions and
+parameters which antedate our formation as
+medievalists have established what we will
+be ready to hear from and about the period
+we study, and what we will be prepared to
+answer back. While medievalists worked within
+a fairly stable generic category labeled
+"Arthurian Romance," of which Chrétien was
+the touchstone and Malory the dissolution,
+they could not see an Arthurian romance with
+a cross-dressing heroine as its knight
+errant. While critics held stable assumptions
+regarding misogyny as the default mode, the
+unreflective reflex, of medieval literature,
+they could not make room for a text in which
+Nature and Noreture take the stage as
+allegorical personae and quarrel over which
+of the two determines character, destiny, and
+true gender. What this text had to say-—a
+dissenting vote in the unanimous misogyny
+which medieval studies had posited for its
+period--was not heard. Thus the title later
+given to Silence resonates in many more keys
+than simply that of the heroine's name, or
+the secret of her sex, or the author's broad
+wink at the familiar topos of female
+loquacity.
+
+Not in the spirit of recrimination, then,
+but in order to scrutinize a chapter of
+medieval studies, it is useful to consider
+why, even after the manuscript resurfaced,
+the Roman de Silence remained an inaudible
+text for so many decades. Clearly this work
+neither matched the description earlier
+current of the "canonical" romance (the
+twelfth-century model , part Bildungsroman and
+part miroir des Chevaliers), nor responded
+particularly to the questions that readers
+(shapers) of the genre might want to ask it.
+It was, perforce, mute to the perceptual
+categories they imposed on it, and
+unresponsive to the particular proddings
+motivated by their experience of the romances
+defined as canonical. This text represented
+only an absence, a failure to conform to
+expectations. No young knight (despite the
+promising beginning) to follow to maturity;
+no merveilleux, otherworldly adventures to
+decode as symbolic landscape; no particular
+signs of such privileged medieval discourses
+as courtly love, caritas versus cupiditas,
+and so on. As an Arthurian romance it is
+marginal, containing only a surprising Merlin
+episode (see below) and Silence's outburst
+against Uther and Arthur; no Arthurian
+scholar found it compelling.
+
+It is beyond my scope here to examine
+what, in the field of medieval studies as a
+whole, was at stake in establishing the
+romances of Chrétien, or Hartmann for that
+matter, as the canonical standard or norm by
+which to measure later ones. The need for a
+stable model dictated a deadpan reading of
+these first romances, obviating a priori the
+notion that Chrétien may have deliberately
+undercut even his ablest heroes (although his
+more clearly ironic distance from Perceval
+was always noted). More recent criticism,
+with less invested in a consistent romance
+pattern, can admit to finding Erec more
+disturbing, Yvaijlless.courtois, and Lancelot
+more absurd, than might befit a model knight.
+But Silence did not follow any recognizable
+romance structure; rather, her troubled
+itinerary from knightly perfection to self-
+knowledge as a woman, culminating in a
+successful bride-quest (her own), seems an
+overt inversion of the trajectory which
+critics identified in Chrétien's knights. Her
+story, therefore, did not register.
+
+It is entirely possible that it simply
+did not get read with particular care; this
+would offer an alternative explanation for
+the lack of response to such revolutionary
+features as the gender-disguise plot, the
+Nature-Nurture debate which the romance both
+comprises and. explicitly stages, and its
+partisan narrative stance which flatly
+contradicts the plot's own assumptions and
+exigencies. In every sense that counts,
+Silence was uniquely ignored. Yet when we
+look at the reception-history in the past
+two hundred years of other thirteenth-century
+French romances, we find a similar if less
+extreme disengagement on the part of literary
+scholars. Relatively little work is done on
+the Roman du Chételain de Coucy,the Roman de
+la Poire, Guillaume de Dole, or the Roman de
+la Violette, let alone the Tournoi de
+Chauvency. With affection or derision these
+are dubbed romans réalistes, simply because
+they are not romans merveilleux; they do not
+dabble excessively ﬁx: the archetypal, the
+magical, or the Arthurian; they use proper
+names and place-names of recognizable
+provenance if uncertain identity. Clearly,
+it is time to rediscuss our assumptions about
+the romance genre, taking into account the
+evidence of such contestatory voices in the
+tradition as that of Heldris.
+
+Whatever Silence's past, its future looks
+sunnier; the appearance of several
+particularly' fine articles on it (Allen,
+Bloch, Cooper, Perret) in the past several
+years suggests that it will probably be read,
+taught, and written about for some time to
+come. As more readers engage this text,
+however, it becomes clear that it can still
+only say what its readers are ready to
+receive. If Howard Bloch finds in the figure
+of Silence an analogue for the trouvere's
+art, Peter'Allen.locates the romance's center
+in its very affirmation of ambiguity in words
+and gender; if Kathleen Brahney sees it as
+a deproblematized and partisan exploration
+of what women can do when social and
+psychological barriers are removed, Kate
+Cooper reads the woman in this text as the
+perennially lost textual object, the figure
+for textuality itself, and its simultaneous
+articulation and suppression in writing:
+
+...silence within this text is the most
+profound figure of poetic enterprise, an
+integral part of poetic production
+compared time and again to the absent,
+unheard, and unseen female body. Silence
+as a linguistic phenomenon and as a
+textual figure is at once the
+representation of that object of desire
+which stimulates the poet's speech, and
+the subject--ineffable, unattainable,
+irreducible--of his verse. (344)
+
+The speech of this text will still in large
+part be determined by the questions we ask
+of it, the categories of information which
+we are prepared to receive from it.
+
+## Artistic Achievement
+
+We shall turn now from considering what
+Silence lacked that made it uninteresting to
+medievalists, to what Silence contains that
+makes it compelling to us now. First and most
+obviously, the romance challenges standard
+assignments of gender to roles as seen in the
+"biographical" romances which antedate it.
+Even at its surface this text distinguishes
+itself from the body of literary and
+philosophical texts which medieval literary
+study has canonized. What other texts,
+especially of this genre, deal overtly with
+the legal status of female inheritance, or
+take it for granted that absolute chivalric
+and poetic preeminence are within reach of
+a woman--without ever even discussing the
+issue? The narrator offers no explanation or
+apology for the fact that this most perfect
+of women can be a perfect.knight, even saving
+her king's throne when some of his vassals
+rebel. It is apparently assumed that, freed
+of the various constraints of a "female"
+upbringing, women can disprove even the most
+commonplace accusations of the antifeminist
+diatribe. Hence, clearly, one of the
+resonances of 'the Iheroine's name-—she is
+innocent of stereotypical female
+garrulousness.
+
+Another exceptional feature is the
+presence, in all her Chartrian splendor, of
+Natura formatrix as the immediate creator of
+Silence. She makes the girl out of the finest
+materials, using a perfect mold which she had
+never allowed herself to use before, in order
+to create the epitome of a woman. Bloch
+assumes that Silence's author knew the De
+planctu Naturae of.Alain.de Lille; and indeed
+the subtlety of this text's configurations
+of body and.clothing, reality and text, truth
+and representation, supports his reading:
+
+Just like these details, in truth,
+that I've put into the simile,
+just so indeed does Nature... (1823-25)
+
+Can you not often find
+
+a base and low heart, and a fair body
+
+which is a rough garment outside?
+
+The body is nothing but another rough
+garment. (1842-45)
+
+Tolt si com cis fait sans dotance
+Que chi ai mis en la sanblance,
+Si fait Nature, c'est la some...
+
+Ne poés vos sovent trover
+
+Vil cuer et povre, et riche cors
+Kist sarpelliere par defors?
+
+Li cors n'est mais fors sarpelliere.
+
+Bloch' s canny alignment of the poet' 5 (and
+Nature's) writing of Silence with the issues
+of correct 'versus perverted. writing, and
+representation in general, reveals precisely
+how intricate is this poet's theorizing on
+these issues, beneath.his narrator's direct,
+bluff, and seemingly simple exposition.
+
+Nature, even thus problematized by an
+analogy with the poetic process, is less
+inherently unusual a personage in chivalric
+romance than her counterpart Nurture
+(Noreture); to find the two together,
+personified and ready to come to blows, is
+positively revolutionary. Those readers who
+thought that. the explicit formulation in
+these terms of this opposition was a modern
+acquisition. will be surprised to see it
+expressed later in the text in terms of the
+raw and the cooked (5948- 58). The first
+debate between. Nature and. Noreture takes
+place when Silence reaches puberty, and her
+nature begins to reproach her for her
+unnatural life (2500-2688). Noreture arrives
+to defend Silence's upbringing:
+
+"Curse you, Nature,
+leave my nursling alone.
+
+I have completely denatured her.
+
+She will never succumb to you.
+
+If you do not leave off these visits
+you will be able to boast only
+
+that through environment I can make
+a thousand people work against nature.
+All in all, I easily train
+
+a noble child into a bad man.
+
+I will undo all your speech.
+
+Nature, begone, and take the child's
+shame away with you." (2593-2604)
+
+"Lassciés ester ma norecon,
+Nature, a la maleycon.
+
+Jo l'ai tolte desnaturee.
+
+N'avra ja voir a vus duree.
+
+Se ne lassciés icest anter
+
+Bien vos pores a1 loig vanter
+
+Se jo ne fac par noreture
+
+.m. gens ovrer contre nature.
+
+Jo noris tres bien, c'est la some,
+D'un noble enfant un malvais home.
+Jo te desferai tolt ton conte.
+Nature, envoiés o sa honte."
+
+Although Noreture wins this round, Nature
+will be back again at the end of the romance
+to claim her due. Ultimately, however,
+Heldris has opened up a speculative space in
+which the two may contest; he will not opt
+for any dogmatic manifesto in favor of
+either.
+
+The indeterminacy posited in Silence for
+sex roles, sexual difference, language,
+writing, representation, appearance,
+clothing, names, and so on, results--
+inevitably, according to Bloch, Cooper, and
+Perret--in a kind of radical linguistic
+indeterminacy at the level of the text
+itself. Cooper stresses this dissolution of
+sense most strongly, inviting into the text
+all the phonetic and graphemic variants
+imaginable in certain particularly loaded
+passages:
+
+And he answered: Such a thing I never heard!
+Silencius [Silence]! Who am I then?
+I have the name Silencius [Silence],
+I believe,
+[or]
+I do not have Silencius [Silence]
+Or I am other than I was.
+But this I know well, by my right hand,
+That I cannot be other!
+Therefore I am Scilentius [Silence],
+It seems to me, or I am nothing.
+[01']
+It seems to me, or I am nude.
+(2532-38, tr. Cooper)
+
+Et cil respont: Tel n'oi onques!
+Silencius! qui sui jo donques?
+Silencius ai non, jo cui,
+
+U jo sui altres que ne fui.
+
+Mais cho sai jo bien, par ma destre,
+Que jo ne puis pas altres estre!
+Donques sui jo Scilentius,
+
+Cho m'est avis, u jo sui nus."
+
+Cooper is certainly right to emphasize the
+fact that the romance enacts, as well as
+thematizing, the instability of language and
+its undecidability, though my translation
+cannot reflect all such wordplay. I urge the
+reader instead to return to Thorpe's edition
+and read the original, to let the textual
+articulation float free of its narrative
+burden.
+
+All such intricate (and semantically
+charged) wordplay aside, the Roman de Silence
+incorporates quite a few broader examples of
+humor as well. The reader may read straight,
+for example, such lines as "que poi en falt
+que il n'est malles" [little is lacking for
+him to be a male, 2477], or may instead stop
+and reflect on exactly what it is that is
+still lacking in Silence's masculinity. The
+laughter the line may generate reinforces,
+rather than undermines, the romance's
+thematic of the contingent nature of sexual
+difference and gender identity. The narrative
+tension generated by the queen's second
+attempt at seducing Silence, and her success
+at persuading the king that Silence had
+attempted to rape her, is dissipated by the
+following exchange:
+
+He had the boy brought before him,
+
+and said at once to the lady:
+
+"Fair one, if you will be guided by me,
+
+we may yet get some good out of this."
+
+"What?" she asked. "Something besides
+hanging him?"
+
+"Exactly! He will not suffer that."
+
+"Then what do you want to do with him,
+
+sire?
+Burn him, or draw and quarter him?"
+"Neither, fair one..." (4224—32)
+
+Le vallet fait traire ensus d'els
+
+Et a dit a la dame en oire:
+
+"Biele, se vos me voles croire,
+
+Bon consel porons de cho prendre.——
+Comment? fait ele. El que del pendre?--
+Oil! n'avra pas tel martyre.——
+
+Que li volés donc faire, sire?
+
+Ardoir, u a chevals detraire?--
+
+Ne mie, bele...
+
+The queen is momentarily ridiculous, since,
+as we know and she does not, the king has no
+intention of executing Silence. This
+narrative move disarms the audience for her
+next, more malevolent step: the substitution
+of Silence's letter with a death-warrant. At
+the end of the romance, however, it is the
+queen who is drawn and quartered for adultery
+and treachery.
+
+Humor is a constant in the romance, and
+often at the narrator's expense: his persona
+is not always particularly' dignified, or
+learned, or alive to the sophistication of
+the tale he tells. Heldris will not be
+heralded as a new Chrétien. His rhyming
+couplets are workmanlike rather than
+masterful; his narrating voice is earnest and
+frequently leaden rather than elegantly
+, omniscient; and his plot is strongly ad hoc
+rather than (pretending to the) archetypal.
+Yet his control of his text is light and
+sure, in the sense that his obtrusive
+narrator is no accident: he is simply another
+strategy by which to place in the foreground
+the various problematics of the romance. The
+deliberately unsophisticated 'voice, which
+frequently interrupts to tell us a patently
+less complex version of what we are reading,
+calls for us to comment on it and its
+perspective, as well as on those sections of
+the text which seem to escape it. The author
+has created a narrating voice which is not
+quite up to the ambiguities of the tale it
+tells, much in the way Chaucer's Troilus
+narrator and Man of Law never rise to the
+ambiguities and challenges of their
+narratives. Thus the Roman de Silence may be
+said to carry more speculative freight than
+its narrator acknowledges or addresses, and
+to carry it on two distinct planes.
+
+If the narrator is frequently unsubtle,
+however, the poet is not. Silence's creator
+knows, for example, how to suppress the
+narratorial voice and its perspective in
+favor of a character. The narrator is a
+staunch supporter of his protagonist, yet he
+presents--without such qualification as
+direct discourse--the two jongleurs'
+jaundiced view of Silence:
+
+Rage rushed to their hearts,
+
+for their performance was rebuffed
+on account of a swine
+
+who wasn't worth a button. (3245-48)
+
+Li diols lor est es cuers colés
+Que lor mestiers est refolés
+Tolt par l'afaire d'un gloton,
+Ki pas ne valoit un boton.
+
+This switch of narratorial perspective is
+unusual in my experience. Chrétien, for
+example, presents direct discourse in which
+his heroes' enemies deride their opponents,
+or boast of their own inevitable victory,
+but he does not to my knowledge have the
+narrating voice speak for the opposition,
+however' briefly. The narrator' of‘ Silence
+shifts frequently in this way; the erotic
+desperation of Cador and Euphemie, the
+indignation of Nature and the presumption of
+Noreture, and so on, are presented in the
+third person by this technique of floating
+perspective.
+
+The narrator's "real" stance remains
+clear to us for the most part, despite his
+empathetic narration. Still, this quirk of
+presenting events from more than one
+perspective reinforces another of the
+romance's values, which Heather Lloyd
+emphasizes: prudence in judging. Rarely does
+an authority—figure set up for admiration
+make a decision alone and unmeditated in this
+romance, and when it does happen the results
+are disastrous. Thus Ebain consults with his
+barons and takes their advice about his own
+marriage and. that of Cador; but. when. he
+vengefully disinherits all women in his
+realm, the decision is set up as wrongheaded
+and counterproductive (though useful in
+narrative terms, to generate the plot). The
+King of France, caught in a dilemma over the
+request to execute Silence, asks for advice
+from three of his counts, who weigh the
+merits, ethical and pragmatic, of executing
+the boy.
+
+These consultations do not, moreover,
+take place off-stage. We are present at the
+conferences, and. the narrator quotes the
+speakers in full, representing conflicting
+viewpoints in full. No one is made to appear
+ridiculous, even if the narrator's implied
+endorsement goes to one particular character;
+after all, honest people differ. We see the
+other characters' responses, both interior
+and expressed, as a lesson in diplomacy and
+persuasive discourse:
+
+He could hardly say a word
+
+out of rage at what he had heard;
+
+but he restrained his fury
+
+like a wise man, and spoke courteously.
+
+He did not want to contradict Blois
+
+immediately, nor yet consent;
+
+for he only fans the flames
+
+who tries to stop the mouth
+
+of the one he wants to contradict.
+
+A man who does that weakens his case.
+
+Instead, he must first concede
+everything
+
+in order to better mollify his fellow.
+
+(4585-96)
+
+A paines qu'il puet dire mot
+
+De maltalent de cho qu'il ot;
+
+Mais qu'il refrainst son maltalent
+Com sages hom, si parla gent.
+
+Ne le Violt mie desmentir
+
+Al premier mot, ne consentir:
+
+Car cil met 1e fu en l'estoppe
+
+Ki a1 premier le bouce estoppe
+
+De celui que voeI-contredire.
+
+Hom qui cho fait, son plait empire,
+Ainz doit premiers tolt otroier,
+Por miols son per amoloier.
+
+The hovering eye of the narrator, presenting
+first one view of a situation and then
+another, may well be simply advocating the
+pragmatism which makes respect for other
+perspectives desirable, as Lloyd says. Or he
+may be recalling the contingency of "actual
+reality" which makes it problematic to
+privilege one version of it over another.
+More portentously, he reminds us that
+language--like clothing--constitutes the
+reality we know, as Silence's reality for
+almost all her interlocutors is constituted
+by the clothing, manners, and activities she
+adopts--her social "language, " her non—verbal
+signs. (Even her father, the author of
+Silence's imposture, is never seen--in direct
+or indirect discourse, spoken or thought--to
+allude to his daughter as female, once he has
+explained her disguise to her.)
+
+What, then, does the author--or the
+narrator, for that matter--conclude or
+suggest about gender? More specifically, are
+gendered qualities innate for him? Again, he
+may have a suspicion, but he does not
+discount the other'possibilities either. The
+second Nature-Nurture debate, which balances
+and overturns the first, is not about
+Silence; the direct provocation is the figure
+of Merlin, a man who has become like an
+animal (wandering in the forest, eating raw
+plants, drinking only water, etc.). Nature
+and Nurture here accuse each other of being
+the origin of evil in the human race; since
+evil originated with Adam and Eve, who had
+no nurture to corrupt'them but could not
+possibly have been corrupt by Nature, which
+is to blame? Nature clearly wins this round,
+yet ultimately it is only the Merlin
+narrative unit that is at stake. No innate
+femininity, no gender-based weakness or
+predisposition, betrays Silence in the way
+that Merlin's innately human longings make
+him susceptible 'to ‘the lure of 'wine and
+cooked meat. Only Merlin betrays Silence,
+when. he breaks his obstinate silence to
+speak, by knowing the fact of her biological
+gender. Although Nature has created in her
+the ultimate woman, nothing about Silence
+leads to her "downfall."
+
+Silence does, of course, contribute to
+her own unmasking’ when she captures and
+brings back Merlin, a feat only'a woman could
+perform. Nothing but the technical fact of
+her sex accounts for this; if gendered
+qualities are not innate, then, obviously
+gender still is. According to the plot,
+clearly, the repercussions of that biological
+fact can be minimal, even nil. Not for
+nothing does this text present a woman
+warrior and poet-performer whose successes
+in these categories outstrip all her male
+competitors. If Allen and Brahney maintain
+that the romance's plot does not ultimately
+challenge the certainties of gender-based
+identity, they may not be weighting
+adequately the radical premises of this text,
+which I would not hesitate to call at least
+proto-feminist. The narrator does not bother
+to trot out and explicitly refute the old
+saws about female nature, at least not with
+regard to Silence; for the most part, the
+asides to the effect that "feme est de tele
+nature" [woman's nature is such...] are
+provoked by Eupheme, the king's wife. The
+critical juncture of Silence and female
+nature occurs only in the epilogue, which
+becomes more and more opaque the more we look
+at it.
+
+The layering of narration in the text is
+dense, and.nowhere more so than at its close.
+Throughout the text we have an obtrusive but
+unstable narrating voice, which contradicts
+itself explicitly and implicitly. The
+epilogue claims to derive a lesson from
+Silence, a conclusion about nature in general
+and female nature in particular, which
+conclusion however has been thoroughly
+disproven in the romance itself:
+
+Master Heldris says here and now
+
+that one should love a good woman more
+
+than one should hate or revile a bad
+one.
+
+I would show you the true reason:
+
+for a woman has less opportunity
+
+to have the time and chance
+
+to be good than to be evil,
+
+if she works diligently against nature.
+
+[6684-91]
+
+Maistre Heldris dist chi endroit
+C'on doit plus bone feme amer
+Que hair malvaise u blamer.
+
+Si mosterroie bien raison,
+
+Car feme a menor oquoison
+
+Por que ele ait 1e liu ne l'aise
+De l'estre bone que malvaise,
+S'ele ouevre bien contre nature.
+
+The distinction between Eupheme and Silence
+is made a few lines down; yet there is no
+coherence to the sequence of placating
+remarks which Heldris makes in backing his
+way out of his text. If women have less
+occasion or cause to be good than to be evil,
+and Silence is this text's exception, does
+that mean that her upbringing--with male
+activities, concerns, freedoms--made the
+difference? But Eupheme has another antitype,
+Silence's mother Euphemie (the names alone
+invite the comparison) , who is perfectly good
+and virtuous :h1 her own (female) sphere.
+"Contre nature" indicates the narrator's
+conviction--borne out by the last Nature-
+Nurture debate-~that women are tendentially
+inclined towards evil. But is not the
+narrator traducing his tale, or does not the
+overwhelming evidence of the tale bely his
+superficial conclusion? Ultimately we must
+look skeptically at the explicit assertions
+of a narrator who simplifies or reverses the
+complexities of his tale; and I would argue
+that the author of Silence intended us to
+read his ponderous narrator with more than
+a grain of salt.
+
+The romance' s double perspective--a
+sophisticated tale told by a simple tel-
+ler--contributes to what Peter Allen refers
+to as an apparent conventionality:
+
+Heldris's poem, on the surface, seems
+unlikely to threaten anyone's notions of
+what medieval literature is all about.
+[...]...the text does not appear to
+challenge our way of thinking. (98)
+
+Indeed, Silence does end up relinquishing
+her male persona and marrying the king, a
+conventional ending for such revolutionary
+premises. But the fact of the ending does
+not negate or neutralize the radical events
+that preceded it. The universe remains
+disturbed: commonplaces about biological and
+social gender have still been shaken, and.the
+pat ending with its pat commentary do not
+successfully repair the rift in the
+conceptual fabric.
+
+## Sources and Influences
+
+As I noted above, Silence had no
+immediately identifiable imitations in
+medieval literature, although it is far from
+being without precursor or heir. Its actual
+impact on its literary context is difficult
+to assess, since the surrounding material has
+not been combed for echoes of Heldris's
+romance. Other texts which exist in unique
+manuscripts-~such as Flamenca, or'Hartmann's
+Erec--have been much more attentively studied
+than Silence has yet had time to be. That we
+find. no direct allusions to it in. other
+medieval works is no clear indication of its
+obscurity, nor is the existence of other
+maiden-knights in literature a sure
+indication that Silence was known and
+adapted.
+
+Michele Perret discusses three analogous
+cases of female transvestitism in Old French,
+in Huon de Bordeaux, L'Estoire Merlin (the
+source for the final episode of Silence), and
+Tristan de Nanteuil. Silence is unique among
+them in several respects: in being
+constructed entirely around this motif, in
+explicitly staging the Nature-Noreture
+debates, and in making the masquerade overtly
+a question of female nature, among others.
+Still, it is clear that Heldris' work had
+resonances 5J1 its time. Heldris' plot is
+perhaps not so revolutionary after all; the
+Middle Ages could and did posit a more
+nuanced view of women than the familiar Eve—
+Mary dichotomy could encompass, and this is
+all to the good. As Perret shows, the
+combined evidence of Yde from .Huon,
+Grisandole from L'Estoire Merlin, and
+Blanchandine from Tristan de Nanteuil , reveal
+the sexual and referential instabilities at
+stake in this tale-type:
+
+The extreme instability of the sign, and
+especially the problematic relation of
+the sign to its referent, is revealed
+most particularly in this area of sexual
+difference.
+
+It is this problem of reference
+which brings into these narratives of
+sexual ambiguity a whole play of
+language... (334)
+
+The same thematic in late Italian epic--
+vehicled in Bradamante in the Orlando
+Furioso, and in Clorinda in the Gerusalemme
+Liberata--results in. the exposure of 'the
+instabilities which lie close beneath the
+surface of both language and sexual
+difference.
+
+Heldris mentions the Breton lais Gueron
+(Gurun?) and Mabon in the context of
+Silence's performance as a jongleur; and
+indeed, Eupheme's attempt to seduce Silence,
+and her vengeful mood upon failing, could be
+taken from any number of lais (Lanval,
+Graelent, Guingamory etc.). The topos is
+sufficiently diffuse, of course, that it.does
+not need a direct antecedent. Still, the
+allusion and analogous episode serve to
+locate Silence in a specific literary milieu,
+just as the episode in which Silence
+disguises herself to become a jongleur echoes
+the adventure of another notably intrepid
+heroine, Nicolette in Aucassin et Nicolette.
+Again, whether the similarity is due to
+borrowing or simply to a shared literary
+matrix, the analogy brings Silence into the
+humorous, even parodic, world of the
+chantefable.
+
+In sum, Silence's sources and influences,
+with one exception, are general and diffuse.
+The exception is, of course, the closing
+episode, taken virtually intact from
+L'Estoire Merlin (c. 1230). In this episode,
+Ebain and Eupheme send Silence to capture
+Merlin; since he can only be taken by a
+woman, the king and queen are certain that
+Silence will fail. Silence too is certain of
+her imminent failure; but an enigmatic
+figure, who, we are invited to think, is
+Merlin himself, comforts Silence and shows
+him the stratagems which can capture the
+magician. Although Merlin has long been
+living as a wild man, his human nature can
+betray him into being lured by the smell of
+cooked meat and the desire for wine. When
+Merlin sets out after the cooked meat, Nature
+and Noreture again take center-stage to
+defend their respective positions. This time
+Nature routs Noreture in short order,
+preparing us for the conclusion of the
+romance in which Silence's female nature will
+be vindicated. ,
+
+The force of this episode is such that,
+for Lewis Thorpe, Heldris "composed lines 1-
+5647 of his poem to lead up to and explain
+this final episode" (32). Heather Lloyd, for
+different reasons, agrees (88). Critics seem
+to agree generally that Heldris ultimately
+reinforces the status quo (Perret, 329) with
+his apparently regressive ending, a judgment
+which their heavy weighting of the final
+episode generates. As I have suggested,
+however, the closing off of the speculative
+space does not by any means have the force
+of never having opened it up at all; and we
+are quite possibly invited to scrutinize the
+bluff and ingenuous conclusions of the
+narrating voice.
+
+In conclusion, Silence is, indeed,
+unusual--but less with reference to its own
+cultural context than in comparison to the
+construct of medieval misogyny in general,
+and of Arthurian romance ingparticular, which
+medieval studies has handed down to us.
+Silence is unusual, but not an orphan: as
+Perret demonstrates, other French authors
+framed in similar terms the questions of
+gender as innate or constructed. Even without
+these immediate analogues, however, there is
+sufficient evidence in canonical texts that
+historians and literary historians alike have
+exaggerated the homogeneity of medieval
+attitudes toward gender (as toward religion,
+cosmology, politics, and other issues). We
+need to incorporate the evidence of the
+minority voices, both within the canon and
+without; and the Roman de Silence is an
+important part of that process.
+
+## Editorial Policy for this Translation
+
+With very few exceptions, I have based
+this translation on Lewis Thorpe's edition,
+published in book form by Heffer in 1972.
+Consultation of the original manuscript has
+yielded few essential emendations; most of
+these involve changes to Thorpe's sentence
+divisions, although occasionally I have also
+changed a word in accordance with my reading
+of the manuscript. I understand that the
+unique manuscript of Silence, Mi.LM.6, is
+currently in restoration and will not be
+available for consultation in the near
+future.
+
+Although I wished to remain faithful to
+the letter of the original, in translating
+the text I have dispensed with certain
+characteristics of Old French narrative
+poetry which read awkwardly in English. I
+have stabilized verb tenses in sequences in
+which, as readers of Old French know, the
+original would shift. between jpresent and
+past; I have inserted subject markers where
+their absence 'would confuse the English-
+speaking reader; and I have revised word
+order to conform to English syntax, although
+I tried to respect original line format. In
+the translator's perennial negotiation
+between the literal and the mellifluous, I
+have erred in the direction of the former;
+certain stilted collocations are therefore
+my responsibility, not Heldris'. Ultimately
+my hope is, of course, that readers will go
+back to the Roman de Silence, and let it
+speak for itself; thus I have retained
+Thorpe's original line numbers to facilitate
+comparison with his edition.
+
+I would like to express my gratitude to
+several people who were instrumental in the
+project of translating Silence. I first
+learned of the existence of the work from
+Joan Ferrante of Columbia University, in a
+lecture she delivered at Cornell University
+in late 1985; I thank: her sincerely for
+bringing the romance to my attention. Alice
+Colby-Hall and James S. Noblitt of Cornell
+taught me Old French; they are however
+innocent of what imperfections remain in my
+mastery of the language. James J. John of
+Cornell taught me paleography, the door
+through which we touch the hand that wrote,
+and meet the eye that corrected, our texts.
+Professor Mario Mancini of the Universita
+degli Studi, Bologna, graciously allowed me
+the use of a miniature but splendidly-
+equipped library in the Palazzo Ercolani in
+1987; that library's resources and
+tranquillity were essential to my initial
+translation project. Professor James J.
+Wilhelm offered his patience and expertise
+in equal measure, and I am very grateful to
+him for both. Finally, to my medievalist
+colleagues at Cornell, who took issue with
+the conventional wisdom regarding the role
+of women in medieval literature, this
+translation is dedicated: Gayle Margherita,
+Disa Gambera, Wendy Peek, Karen Swenson,
+Kerry Shea, Janet Durholz, Debby Berman,
+Sarah Anderson, and Karen Cherewatuk.
